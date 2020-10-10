@@ -1,0 +1,848 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<debugInfo>
+<manifest filename="C:\Users\winis\OneDrive\Programming\GitHub\Boeing-Analog\manifest.xml"/>
+<pcToLineNum>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Boeing-Analog\\source\\BoeingWatchApp.mc" id="3" lineNum="6" pc="268435456" symbol="initialize"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Boeing-Analog\\source\\BoeingWatchApp.mc" id="3" lineNum="7" pc="268435460" symbol="initialize"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Boeing-Analog\\source\\BoeingWatchApp.mc" id="4" lineNum="11" pc="268435479" symbol="onStart"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Boeing-Analog\\source\\BoeingWatchApp.mc" id="5" lineNum="15" pc="268435484" symbol="onStop"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Boeing-Analog\\source\\BoeingWatchApp.mc" id="6" lineNum="19" pc="268435489" symbol="getInitialView"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Boeing-Analog\\source\\BoeingWatchApp.mc" id="6" lineNum="20" pc="268435493" symbol="getInitialView"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Boeing-Analog\\source\\BoeingWatchApp.mc" id="7" lineNum="24" pc="268435561" symbol="onSettingsChanged"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Boeing-Analog\\source\\BoeingWatchApp.mc" id="7" lineNum="25" pc="268435565" symbol="onSettingsChanged"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Boeing-Analog\\source\\BoeingWatchApp.mc" id="8" lineNum="29" pc="268435582" symbol="getGoalView"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Boeing-Analog\\source\\BoeingWatchApp.mc" id="8" lineNum="32" pc="268435586" symbol="getGoalView"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Boeing-Analog\\source\\BoeingWatchGoalView.mc" id="10" lineNum="6" pc="268435589" symbol="initialize"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Boeing-Analog\\source\\BoeingWatchGoalView.mc" id="11" lineNum="10" pc="268435594" symbol="onLayout"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Boeing-Analog\\source\\BoeingWatchGoalView.mc" id="11" lineNum="11" pc="268435598" symbol="onLayout"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Boeing-Analog\\source\\BoeingWatchGoalView.mc" id="12" lineNum="14" pc="268435611" symbol="onUpdate"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Boeing-Analog\\source\\BoeingWatchView.mc" id="14" lineNum="56" pc="268435616" symbol="initialize"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Boeing-Analog\\source\\BoeingWatchView.mc" id="14" lineNum="57" pc="268435620" symbol="initialize"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Boeing-Analog\\source\\BoeingWatchView.mc" id="15" lineNum="61" pc="268435639" symbol="onLayout"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Boeing-Analog\\source\\BoeingWatchView.mc" id="15" lineNum="62" pc="268435643" symbol="onLayout"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Boeing-Analog\\source\\BoeingWatchView.mc" id="15" lineNum="65" pc="268435677" symbol="onLayout"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Boeing-Analog\\source\\BoeingWatchView.mc" id="15" lineNum="66" pc="268435730" symbol="onLayout"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Boeing-Analog\\source\\BoeingWatchView.mc" id="15" lineNum="67" pc="268435740" symbol="onLayout"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Boeing-Analog\\source\\BoeingWatchView.mc" id="15" lineNum="71" pc="268435753" symbol="onLayout"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Boeing-Analog\\source\\BoeingWatchView.mc" id="15" lineNum="72" pc="268435804" symbol="onLayout"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Boeing-Analog\\source\\BoeingWatchView.mc" id="15" lineNum="73" pc="268435814" symbol="onLayout"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Boeing-Analog\\source\\BoeingWatchView.mc" id="15" lineNum="76" pc="268435827" symbol="onLayout"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Boeing-Analog\\source\\BoeingWatchView.mc" id="15" lineNum="80" pc="268435864" symbol="onLayout"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Boeing-Analog\\source\\BoeingWatchView.mc" id="15" lineNum="81" pc="268435891" symbol="onLayout"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Boeing-Analog\\source\\BoeingWatchView.mc" id="15" lineNum="86" pc="268435972" symbol="onLayout"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Boeing-Analog\\source\\BoeingWatchView.mc" id="15" lineNum="89" pc="268435982" symbol="onLayout"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Boeing-Analog\\source\\BoeingWatchView.mc" id="15" lineNum="91" pc="268436002" symbol="onLayout"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Boeing-Analog\\source\\BoeingWatchView.mc" id="15" lineNum="92" pc="268436045" symbol="onLayout"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Boeing-Analog\\source\\BoeingWatchView.mc" id="15" lineNum="93" pc="268436085" symbol="onLayout"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Boeing-Analog\\source\\BoeingWatchView.mc" id="15" lineNum="94" pc="268436125" symbol="onLayout"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Boeing-Analog\\source\\BoeingWatchView.mc" id="15" lineNum="95" pc="268436165" symbol="onLayout"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Boeing-Analog\\source\\BoeingWatchView.mc" id="15" lineNum="96" pc="268436205" symbol="onLayout"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Boeing-Analog\\source\\BoeingWatchView.mc" id="15" lineNum="98" pc="268436248" symbol="onLayout"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Boeing-Analog\\source\\BoeingWatchView.mc" id="15" lineNum="100" pc="268436291" symbol="onLayout"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Boeing-Analog\\source\\BoeingWatchView.mc" id="16" lineNum="105" pc="268436304" symbol="onUpdate"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Boeing-Analog\\source\\BoeingWatchView.mc" id="16" lineNum="106" pc="268436308" symbol="onUpdate"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Boeing-Analog\\source\\BoeingWatchView.mc" id="16" lineNum="107" pc="268436333" symbol="onUpdate"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Boeing-Analog\\source\\BoeingWatchView.mc" id="16" lineNum="108" pc="268436369" symbol="onUpdate"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Boeing-Analog\\source\\BoeingWatchView.mc" id="16" lineNum="109" pc="268436381" symbol="onUpdate"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Boeing-Analog\\source\\BoeingWatchView.mc" id="16" lineNum="110" pc="268436393" symbol="onUpdate"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Boeing-Analog\\source\\BoeingWatchView.mc" id="16" lineNum="112" pc="268436410" symbol="onUpdate"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Boeing-Analog\\source\\BoeingWatchView.mc" id="16" lineNum="113" pc="268436427" symbol="onUpdate"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Boeing-Analog\\source\\BoeingWatchView.mc" id="16" lineNum="114" pc="268436437" symbol="onUpdate"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Boeing-Analog\\source\\BoeingWatchView.mc" id="16" lineNum="115" pc="268436447" symbol="onUpdate"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Boeing-Analog\\source\\BoeingWatchView.mc" id="16" lineNum="116" pc="268436457" symbol="onUpdate"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Boeing-Analog\\source\\BoeingWatchView.mc" id="16" lineNum="118" pc="268436470" symbol="onUpdate"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Boeing-Analog\\source\\BoeingWatchView.mc" id="16" lineNum="119" pc="268436482" symbol="onUpdate"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Boeing-Analog\\source\\BoeingWatchView.mc" id="16" lineNum="121" pc="268436494" symbol="onUpdate"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Boeing-Analog\\source\\BoeingWatchView.mc" id="16" lineNum="122" pc="268436505" symbol="onUpdate"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Boeing-Analog\\source\\BoeingWatchView.mc" id="16" lineNum="123" pc="268436534" symbol="onUpdate"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Boeing-Analog\\source\\BoeingWatchView.mc" id="16" lineNum="125" pc="268436567" symbol="onUpdate"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Boeing-Analog\\source\\BoeingWatchView.mc" id="16" lineNum="129" pc="268436581" symbol="onUpdate"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Boeing-Analog\\source\\BoeingWatchView.mc" id="16" lineNum="130" pc="268436635" symbol="onUpdate"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Boeing-Analog\\source\\BoeingWatchView.mc" id="16" lineNum="131" pc="268436671" symbol="onUpdate"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Boeing-Analog\\source\\BoeingWatchView.mc" id="16" lineNum="132" pc="268436717" symbol="onUpdate"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Boeing-Analog\\source\\BoeingWatchView.mc" id="16" lineNum="133" pc="268436743" symbol="onUpdate"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Boeing-Analog\\source\\BoeingWatchView.mc" id="16" lineNum="134" pc="268436779" symbol="onUpdate"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Boeing-Analog\\source\\BoeingWatchView.mc" id="16" lineNum="137" pc="268436825" symbol="onUpdate"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Boeing-Analog\\source\\BoeingWatchView.mc" id="16" lineNum="138" pc="268436861" symbol="onUpdate"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Boeing-Analog\\source\\BoeingWatchView.mc" id="17" lineNum="143" pc="268436925" symbol="onPartialUpdate"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Boeing-Analog\\source\\BoeingWatchView.mc" id="17" lineNum="144" pc="268436929" symbol="onPartialUpdate"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Boeing-Analog\\source\\BoeingWatchView.mc" id="17" lineNum="145" pc="268436940" symbol="onPartialUpdate"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Boeing-Analog\\source\\BoeingWatchView.mc" id="17" lineNum="146" pc="268436957" symbol="onPartialUpdate"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Boeing-Analog\\source\\BoeingWatchView.mc" id="17" lineNum="147" pc="268436967" symbol="onPartialUpdate"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Boeing-Analog\\source\\BoeingWatchView.mc" id="17" lineNum="148" pc="268436977" symbol="onPartialUpdate"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Boeing-Analog\\source\\BoeingWatchView.mc" id="17" lineNum="149" pc="268436987" symbol="onPartialUpdate"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Boeing-Analog\\source\\BoeingWatchView.mc" id="17" lineNum="152" pc="268437000" symbol="onPartialUpdate"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Boeing-Analog\\source\\BoeingWatchView.mc" id="17" lineNum="153" pc="268437036" symbol="onPartialUpdate"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Boeing-Analog\\source\\BoeingWatchView.mc" id="17" lineNum="155" pc="268437079" symbol="onPartialUpdate"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Boeing-Analog\\source\\BoeingWatchView.mc" id="17" lineNum="156" pc="268437115" symbol="onPartialUpdate"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Boeing-Analog\\source\\BoeingWatchView.mc" id="18" lineNum="161" pc="268437179" symbol="updateValues"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Boeing-Analog\\source\\BoeingWatchView.mc" id="18" lineNum="162" pc="268437183" symbol="updateValues"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Boeing-Analog\\source\\BoeingWatchView.mc" id="18" lineNum="163" pc="268437214" symbol="updateValues"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Boeing-Analog\\source\\BoeingWatchView.mc" id="18" lineNum="164" pc="268437225" symbol="updateValues"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Boeing-Analog\\source\\BoeingWatchView.mc" id="18" lineNum="166" pc="268437238" symbol="updateValues"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Boeing-Analog\\source\\BoeingWatchView.mc" id="18" lineNum="167" pc="268437249" symbol="updateValues"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Boeing-Analog\\source\\BoeingWatchView.mc" id="18" lineNum="169" pc="268437262" symbol="updateValues"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Boeing-Analog\\source\\BoeingWatchView.mc" id="18" lineNum="170" pc="268437273" symbol="updateValues"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Boeing-Analog\\source\\BoeingWatchView.mc" id="18" lineNum="173" pc="268437305" symbol="updateValues"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Boeing-Analog\\source\\BoeingWatchView.mc" id="18" lineNum="174" pc="268437328" symbol="updateValues"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Boeing-Analog\\source\\BoeingWatchView.mc" id="18" lineNum="175" pc="268437346" symbol="updateValues"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Boeing-Analog\\source\\BoeingWatchView.mc" id="18" lineNum="177" pc="268437359" symbol="updateValues"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Boeing-Analog\\source\\BoeingWatchView.mc" id="18" lineNum="180" pc="268437369" symbol="updateValues"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Boeing-Analog\\source\\BoeingWatchView.mc" id="18" lineNum="181" pc="268437406" symbol="updateValues"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Boeing-Analog\\source\\BoeingWatchView.mc" id="18" lineNum="182" pc="268437443" symbol="updateValues"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Boeing-Analog\\source\\BoeingWatchView.mc" id="18" lineNum="184" pc="268437480" symbol="updateValues"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Boeing-Analog\\source\\BoeingWatchView.mc" id="18" lineNum="185" pc="268437542" symbol="updateValues"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Boeing-Analog\\source\\BoeingWatchView.mc" id="18" lineNum="187" pc="268437555" symbol="updateValues"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Boeing-Analog\\source\\BoeingWatchView.mc" id="18" lineNum="190" pc="268437565" symbol="updateValues"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Boeing-Analog\\source\\BoeingWatchView.mc" id="18" lineNum="191" pc="268437577" symbol="updateValues"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Boeing-Analog\\source\\BoeingWatchView.mc" id="18" lineNum="192" pc="268437590" symbol="updateValues"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Boeing-Analog\\source\\BoeingWatchView.mc" id="18" lineNum="193" pc="268437603" symbol="updateValues"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Boeing-Analog\\source\\BoeingWatchView.mc" id="18" lineNum="195" pc="268437619" symbol="updateValues"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Boeing-Analog\\source\\BoeingWatchView.mc" id="18" lineNum="196" pc="268437632" symbol="updateValues"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Boeing-Analog\\source\\BoeingWatchView.mc" id="18" lineNum="197" pc="268437645" symbol="updateValues"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Boeing-Analog\\source\\BoeingWatchView.mc" id="19" lineNum="202" pc="268437659" symbol="drawBackground"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Boeing-Analog\\source\\BoeingWatchView.mc" id="19" lineNum="203" pc="268437663" symbol="drawBackground"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Boeing-Analog\\source\\BoeingWatchView.mc" id="19" lineNum="204" pc="268437680" symbol="drawBackground"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Boeing-Analog\\source\\BoeingWatchView.mc" id="19" lineNum="205" pc="268437690" symbol="drawBackground"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Boeing-Analog\\source\\BoeingWatchView.mc" id="19" lineNum="206" pc="268437700" symbol="drawBackground"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Boeing-Analog\\source\\BoeingWatchView.mc" id="19" lineNum="207" pc="268437710" symbol="drawBackground"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Boeing-Analog\\source\\BoeingWatchView.mc" id="19" lineNum="208" pc="268437723" symbol="drawBackground"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Boeing-Analog\\source\\BoeingWatchView.mc" id="19" lineNum="210" pc="268437736" symbol="drawBackground"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Boeing-Analog\\source\\BoeingWatchView.mc" id="19" lineNum="211" pc="268437772" symbol="drawBackground"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Boeing-Analog\\source\\BoeingWatchView.mc" id="19" lineNum="213" pc="268437784" symbol="drawBackground"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Boeing-Analog\\source\\BoeingWatchView.mc" id="19" lineNum="214" pc="268437798" symbol="drawBackground"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Boeing-Analog\\source\\BoeingWatchView.mc" id="19" lineNum="216" pc="268437812" symbol="drawBackground"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Boeing-Analog\\source\\BoeingWatchView.mc" id="19" lineNum="217" pc="268437823" symbol="drawBackground"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Boeing-Analog\\source\\BoeingWatchView.mc" id="19" lineNum="218" pc="268437859" symbol="drawBackground"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Boeing-Analog\\source\\BoeingWatchView.mc" id="19" lineNum="219" pc="268437900" symbol="drawBackground"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Boeing-Analog\\source\\BoeingWatchView.mc" id="19" lineNum="222" pc="268437944" symbol="drawBackground"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Boeing-Analog\\source\\BoeingWatchView.mc" id="19" lineNum="223" pc="268438035" symbol="drawBackground"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Boeing-Analog\\source\\BoeingWatchView.mc" id="19" lineNum="225" pc="268438049" symbol="drawBackground"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Boeing-Analog\\source\\BoeingWatchView.mc" id="19" lineNum="226" pc="268438085" symbol="drawBackground"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Boeing-Analog\\source\\BoeingWatchView.mc" id="19" lineNum="228" pc="268438135" symbol="drawBackground"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Boeing-Analog\\source\\BoeingWatchView.mc" id="20" lineNum="232" pc="268438179" symbol="centerOnLeft"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Boeing-Analog\\source\\BoeingWatchView.mc" id="20" lineNum="233" pc="268438183" symbol="centerOnLeft"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Boeing-Analog\\source\\BoeingWatchView.mc" id="20" lineNum="234" pc="268438196" symbol="centerOnLeft"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Boeing-Analog\\source\\BoeingWatchView.mc" id="21" lineNum="237" pc="268438266" symbol="centerOnRight"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Boeing-Analog\\source\\BoeingWatchView.mc" id="21" lineNum="238" pc="268438270" symbol="centerOnRight"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Boeing-Analog\\source\\BoeingWatchView.mc" id="21" lineNum="239" pc="268438283" symbol="centerOnRight"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Boeing-Analog\\source\\BoeingWatchView.mc" id="22" lineNum="242" pc="268438359" symbol="drawPlane"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Boeing-Analog\\source\\BoeingWatchView.mc" id="22" lineNum="243" pc="268438363" symbol="drawPlane"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Boeing-Analog\\source\\BoeingWatchView.mc" id="22" lineNum="244" pc="268438363" symbol="drawPlane"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Boeing-Analog\\source\\BoeingWatchView.mc" id="22" lineNum="245" pc="268438376" symbol="drawPlane"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Boeing-Analog\\source\\BoeingWatchView.mc" id="22" lineNum="246" pc="268438396" symbol="drawPlane"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Boeing-Analog\\source\\BoeingWatchView.mc" id="22" lineNum="249" pc="268438461" symbol="drawPlane"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Boeing-Analog\\source\\BoeingWatchView.mc" id="22" lineNum="252" pc="268438523" symbol="drawPlane"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Boeing-Analog\\source\\BoeingWatchView.mc" id="22" lineNum="253" pc="268438587" symbol="drawPlane"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Boeing-Analog\\source\\BoeingWatchView.mc" id="23" lineNum="256" pc="268438602" symbol="drawLogo"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Boeing-Analog\\source\\BoeingWatchView.mc" id="23" lineNum="257" pc="268438606" symbol="drawLogo"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Boeing-Analog\\source\\BoeingWatchView.mc" id="23" lineNum="258" pc="268438606" symbol="drawLogo"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Boeing-Analog\\source\\BoeingWatchView.mc" id="23" lineNum="259" pc="268438619" symbol="drawLogo"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Boeing-Analog\\source\\BoeingWatchView.mc" id="23" lineNum="260" pc="268438639" symbol="drawLogo"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Boeing-Analog\\source\\BoeingWatchView.mc" id="23" lineNum="263" pc="268438704" symbol="drawLogo"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Boeing-Analog\\source\\BoeingWatchView.mc" id="23" lineNum="266" pc="268438766" symbol="drawLogo"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Boeing-Analog\\source\\BoeingWatchView.mc" id="23" lineNum="267" pc="268438830" symbol="drawLogo"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Boeing-Analog\\source\\BoeingWatchView.mc" id="24" lineNum="270" pc="268438845" symbol="drawBox"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Boeing-Analog\\source\\BoeingWatchView.mc" id="24" lineNum="271" pc="268438849" symbol="drawBox"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Boeing-Analog\\source\\BoeingWatchView.mc" id="24" lineNum="272" pc="268438862" symbol="drawBox"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Boeing-Analog\\source\\BoeingWatchView.mc" id="24" lineNum="273" pc="268438879" symbol="drawBox"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Boeing-Analog\\source\\BoeingWatchView.mc" id="24" lineNum="274" pc="268438908" symbol="drawBox"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Boeing-Analog\\source\\BoeingWatchView.mc" id="24" lineNum="275" pc="268438948" symbol="drawBox"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Boeing-Analog\\source\\BoeingWatchView.mc" id="24" lineNum="278" pc="268438969" symbol="drawBox"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Boeing-Analog\\source\\BoeingWatchView.mc" id="24" lineNum="279" pc="268438986" symbol="drawBox"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Boeing-Analog\\source\\BoeingWatchView.mc" id="24" lineNum="280" pc="268439015" symbol="drawBox"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Boeing-Analog\\source\\BoeingWatchView.mc" id="24" lineNum="281" pc="268439055" symbol="drawBox"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Boeing-Analog\\source\\BoeingWatchView.mc" id="24" lineNum="284" pc="268439076" symbol="drawBox"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Boeing-Analog\\source\\BoeingWatchView.mc" id="24" lineNum="285" pc="268439093" symbol="drawBox"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Boeing-Analog\\source\\BoeingWatchView.mc" id="24" lineNum="286" pc="268439122" symbol="drawBox"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Boeing-Analog\\source\\BoeingWatchView.mc" id="24" lineNum="287" pc="268439162" symbol="drawBox"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Boeing-Analog\\source\\BoeingWatchView.mc" id="24" lineNum="290" pc="268439183" symbol="drawBox"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Boeing-Analog\\source\\BoeingWatchView.mc" id="24" lineNum="291" pc="268439200" symbol="drawBox"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Boeing-Analog\\source\\BoeingWatchView.mc" id="24" lineNum="292" pc="268439229" symbol="drawBox"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Boeing-Analog\\source\\BoeingWatchView.mc" id="24" lineNum="293" pc="268439269" symbol="drawBox"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Boeing-Analog\\source\\BoeingWatchView.mc" id="24" lineNum="296" pc="268439290" symbol="drawBox"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Boeing-Analog\\source\\BoeingWatchView.mc" id="24" lineNum="297" pc="268439307" symbol="drawBox"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Boeing-Analog\\source\\BoeingWatchView.mc" id="24" lineNum="298" pc="268439336" symbol="drawBox"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Boeing-Analog\\source\\BoeingWatchView.mc" id="24" lineNum="299" pc="268439376" symbol="drawBox"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Boeing-Analog\\source\\BoeingWatchView.mc" id="24" lineNum="302" pc="268439397" symbol="drawBox"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Boeing-Analog\\source\\BoeingWatchView.mc" id="24" lineNum="303" pc="268439414" symbol="drawBox"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Boeing-Analog\\source\\BoeingWatchView.mc" id="24" lineNum="304" pc="268439443" symbol="drawBox"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Boeing-Analog\\source\\BoeingWatchView.mc" id="24" lineNum="305" pc="268439483" symbol="drawBox"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Boeing-Analog\\source\\BoeingWatchView.mc" id="25" lineNum="309" pc="268439505" symbol="drawTicks"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Boeing-Analog\\source\\BoeingWatchView.mc" id="25" lineNum="310" pc="268439509" symbol="drawTicks"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Boeing-Analog\\source\\BoeingWatchView.mc" id="25" lineNum="311" pc="268439541" symbol="drawTicks"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Boeing-Analog\\source\\BoeingWatchView.mc" id="25" lineNum="312" pc="268439551" symbol="drawTicks"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Boeing-Analog\\source\\BoeingWatchView.mc" id="25" lineNum="313" pc="268439570" symbol="drawTicks"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Boeing-Analog\\source\\BoeingWatchView.mc" id="25" lineNum="314" pc="268439585" symbol="drawTicks"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Boeing-Analog\\source\\BoeingWatchView.mc" id="25" lineNum="315" pc="268439609" symbol="drawTicks"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Boeing-Analog\\source\\BoeingWatchView.mc" id="25" lineNum="316" pc="268439656" symbol="drawTicks"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Boeing-Analog\\source\\BoeingWatchView.mc" id="25" lineNum="319" pc="268439703" symbol="drawTicks"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Boeing-Analog\\source\\BoeingWatchView.mc" id="25" lineNum="320" pc="268439747" symbol="drawTicks"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Boeing-Analog\\source\\BoeingWatchView.mc" id="25" lineNum="322" pc="268439791" symbol="drawTicks"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Boeing-Analog\\source\\BoeingWatchView.mc" id="26" lineNum="326" pc="268439825" symbol="drawHand"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Boeing-Analog\\source\\BoeingWatchView.mc" id="26" lineNum="327" pc="268439829" symbol="drawHand"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Boeing-Analog\\source\\BoeingWatchView.mc" id="26" lineNum="329" pc="268439880" symbol="drawHand"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Boeing-Analog\\source\\BoeingWatchView.mc" id="26" lineNum="331" pc="268439899" symbol="drawHand"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Boeing-Analog\\source\\BoeingWatchView.mc" id="26" lineNum="333" pc="268439913" symbol="drawHand"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Boeing-Analog\\source\\BoeingWatchView.mc" id="26" lineNum="334" pc="268439957" symbol="drawHand"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Boeing-Analog\\source\\BoeingWatchView.mc" id="26" lineNum="336" pc="268440001" symbol="drawHand"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Boeing-Analog\\source\\BoeingWatchView.mc" id="27" lineNum="340" pc="268440022" symbol="drawSecondHandClip"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Boeing-Analog\\source\\BoeingWatchView.mc" id="27" lineNum="341" pc="268440026" symbol="drawSecondHandClip"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Boeing-Analog\\source\\BoeingWatchView.mc" id="27" lineNum="343" pc="268440056" symbol="drawSecondHandClip"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Boeing-Analog\\source\\BoeingWatchView.mc" id="27" lineNum="344" pc="268440107" symbol="drawSecondHandClip"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Boeing-Analog\\source\\BoeingWatchView.mc" id="27" lineNum="345" pc="268440126" symbol="drawSecondHandClip"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Boeing-Analog\\source\\BoeingWatchView.mc" id="27" lineNum="347" pc="268440140" symbol="drawSecondHandClip"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Boeing-Analog\\source\\BoeingWatchView.mc" id="27" lineNum="348" pc="268440181" symbol="drawSecondHandClip"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Boeing-Analog\\source\\BoeingWatchView.mc" id="27" lineNum="350" pc="268440222" symbol="drawSecondHandClip"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Boeing-Analog\\source\\BoeingWatchView.mc" id="27" lineNum="351" pc="268440229" symbol="drawSecondHandClip"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Boeing-Analog\\source\\BoeingWatchView.mc" id="27" lineNum="352" pc="268440236" symbol="drawSecondHandClip"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Boeing-Analog\\source\\BoeingWatchView.mc" id="27" lineNum="353" pc="268440249" symbol="drawSecondHandClip"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Boeing-Analog\\source\\BoeingWatchView.mc" id="27" lineNum="354" pc="268440262" symbol="drawSecondHandClip"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Boeing-Analog\\source\\BoeingWatchView.mc" id="27" lineNum="355" pc="268440278" symbol="drawSecondHandClip"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Boeing-Analog\\source\\BoeingWatchView.mc" id="27" lineNum="356" pc="268440294" symbol="drawSecondHandClip"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Boeing-Analog\\source\\BoeingWatchView.mc" id="27" lineNum="357" pc="268440307" symbol="drawSecondHandClip"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Boeing-Analog\\source\\BoeingWatchView.mc" id="27" lineNum="359" pc="268440320" symbol="drawSecondHandClip"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Boeing-Analog\\source\\BoeingWatchView.mc" id="27" lineNum="360" pc="268440345" symbol="drawSecondHandClip"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Boeing-Analog\\source\\BoeingWatchView.mc" id="27" lineNum="363" pc="268440389" symbol="drawSecondHandClip"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Boeing-Analog\\source\\BoeingWatchView.mc" id="27" lineNum="364" pc="268440414" symbol="drawSecondHandClip"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Boeing-Analog\\source\\BoeingWatchView.mc" id="27" lineNum="367" pc="268440461" symbol="drawSecondHandClip"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Boeing-Analog\\source\\BoeingWatchView.mc" id="27" lineNum="368" pc="268440486" symbol="drawSecondHandClip"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Boeing-Analog\\source\\BoeingWatchView.mc" id="27" lineNum="371" pc="268440530" symbol="drawSecondHandClip"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Boeing-Analog\\source\\BoeingWatchView.mc" id="27" lineNum="372" pc="268440555" symbol="drawSecondHandClip"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Boeing-Analog\\source\\BoeingWatchView.mc" id="27" lineNum="376" pc="268440596" symbol="drawSecondHandClip"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Boeing-Analog\\source\\BoeingWatchView.mc" id="27" lineNum="377" pc="268440632" symbol="drawSecondHandClip"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Boeing-Analog\\source\\BoeingWatchView.mc" id="28" lineNum="382" pc="268440653" symbol="drawHandOffset"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Boeing-Analog\\source\\BoeingWatchView.mc" id="28" lineNum="383" pc="268440657" symbol="drawHandOffset"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Boeing-Analog\\source\\BoeingWatchView.mc" id="28" lineNum="384" pc="268440708" symbol="drawHandOffset"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Boeing-Analog\\source\\BoeingWatchView.mc" id="28" lineNum="386" pc="268440721" symbol="drawHandOffset"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Boeing-Analog\\source\\BoeingWatchView.mc" id="28" lineNum="388" pc="268440748" symbol="drawHandOffset"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Boeing-Analog\\source\\BoeingWatchView.mc" id="28" lineNum="390" pc="268440767" symbol="drawHandOffset"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Boeing-Analog\\source\\BoeingWatchView.mc" id="28" lineNum="392" pc="268440781" symbol="drawHandOffset"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Boeing-Analog\\source\\BoeingWatchView.mc" id="28" lineNum="393" pc="268440825" symbol="drawHandOffset"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Boeing-Analog\\source\\BoeingWatchView.mc" id="28" lineNum="395" pc="268440869" symbol="drawHandOffset"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Boeing-Analog\\source\\BoeingWatchView.mc" id="29" lineNum="398" pc="268440890" symbol="drawDate"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Boeing-Analog\\source\\BoeingWatchView.mc" id="29" lineNum="399" pc="268440894" symbol="drawDate"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Boeing-Analog\\source\\BoeingWatchView.mc" id="29" lineNum="400" pc="268440907" symbol="drawDate"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Boeing-Analog\\source\\BoeingWatchView.mc" id="29" lineNum="401" pc="268440920" symbol="drawDate"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Boeing-Analog\\source\\BoeingWatchView.mc" id="29" lineNum="402" pc="268440968" symbol="drawDate"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Boeing-Analog\\source\\BoeingWatchView.mc" id="29" lineNum="404" pc="268440978" symbol="drawDate"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Boeing-Analog\\source\\BoeingWatchView.mc" id="29" lineNum="405" pc="268441026" symbol="drawDate"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Boeing-Analog\\source\\BoeingWatchView.mc" id="30" lineNum="408" pc="268441111" symbol="drawTimeBox"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Boeing-Analog\\source\\BoeingWatchView.mc" id="30" lineNum="409" pc="268441115" symbol="drawTimeBox"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Boeing-Analog\\source\\BoeingWatchView.mc" id="30" lineNum="410" pc="268441128" symbol="drawTimeBox"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Boeing-Analog\\source\\BoeingWatchView.mc" id="30" lineNum="411" pc="268441176" symbol="drawTimeBox"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Boeing-Analog\\source\\BoeingWatchView.mc" id="30" lineNum="412" pc="268441193" symbol="drawTimeBox"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Boeing-Analog\\source\\BoeingWatchView.mc" id="30" lineNum="413" pc="268441226" symbol="drawTimeBox"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Boeing-Analog\\source\\BoeingWatchView.mc" id="30" lineNum="415" pc="268441230" symbol="drawTimeBox"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Boeing-Analog\\source\\BoeingWatchView.mc" id="30" lineNum="416" pc="268441256" symbol="drawTimeBox"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Boeing-Analog\\source\\BoeingWatchView.mc" id="30" lineNum="417" pc="268441266" symbol="drawTimeBox"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Boeing-Analog\\source\\BoeingWatchView.mc" id="30" lineNum="420" pc="268441273" symbol="drawTimeBox"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Boeing-Analog\\source\\BoeingWatchView.mc" id="31" lineNum="423" pc="268441351" symbol="drawStepBox"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Boeing-Analog\\source\\BoeingWatchView.mc" id="31" lineNum="424" pc="268441355" symbol="drawStepBox"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Boeing-Analog\\source\\BoeingWatchView.mc" id="31" lineNum="425" pc="268441368" symbol="drawStepBox"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Boeing-Analog\\source\\BoeingWatchView.mc" id="31" lineNum="426" pc="268441393" symbol="drawStepBox"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Boeing-Analog\\source\\BoeingWatchView.mc" id="31" lineNum="427" pc="268441393" symbol="drawStepBox"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Boeing-Analog\\source\\BoeingWatchView.mc" id="31" lineNum="428" pc="268441404" symbol="drawStepBox"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Boeing-Analog\\source\\BoeingWatchView.mc" id="31" lineNum="430" pc="268441414" symbol="drawStepBox"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Boeing-Analog\\source\\BoeingWatchView.mc" id="31" lineNum="434" pc="268441453" symbol="drawStepBox"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Boeing-Analog\\source\\BoeingWatchView.mc" id="32" lineNum="437" pc="268441502" symbol="drawFloorsBox"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Boeing-Analog\\source\\BoeingWatchView.mc" id="32" lineNum="438" pc="268441506" symbol="drawFloorsBox"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Boeing-Analog\\source\\BoeingWatchView.mc" id="32" lineNum="439" pc="268441519" symbol="drawFloorsBox"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Boeing-Analog\\source\\BoeingWatchView.mc" id="32" lineNum="440" pc="268441519" symbol="drawFloorsBox"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Boeing-Analog\\source\\BoeingWatchView.mc" id="32" lineNum="442" pc="268441544" symbol="drawFloorsBox"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Boeing-Analog\\source\\BoeingWatchView.mc" id="32" lineNum="444" pc="268441544" symbol="drawFloorsBox"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Boeing-Analog\\source\\BoeingWatchView.mc" id="32" lineNum="445" pc="268441555" symbol="drawFloorsBox"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Boeing-Analog\\source\\BoeingWatchView.mc" id="32" lineNum="447" pc="268441565" symbol="drawFloorsBox"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Boeing-Analog\\source\\BoeingWatchView.mc" id="32" lineNum="452" pc="268441578" symbol="drawFloorsBox"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Boeing-Analog\\source\\BoeingWatchView.mc" id="33" lineNum="455" pc="268441627" symbol="drawCaloriesBox"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Boeing-Analog\\source\\BoeingWatchView.mc" id="33" lineNum="456" pc="268441631" symbol="drawCaloriesBox"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Boeing-Analog\\source\\BoeingWatchView.mc" id="33" lineNum="457" pc="268441644" symbol="drawCaloriesBox"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Boeing-Analog\\source\\BoeingWatchView.mc" id="33" lineNum="458" pc="268441644" symbol="drawCaloriesBox"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Boeing-Analog\\source\\BoeingWatchView.mc" id="33" lineNum="460" pc="268441669" symbol="drawCaloriesBox"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Boeing-Analog\\source\\BoeingWatchView.mc" id="33" lineNum="461" pc="268441669" symbol="drawCaloriesBox"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Boeing-Analog\\source\\BoeingWatchView.mc" id="33" lineNum="462" pc="268441680" symbol="drawCaloriesBox"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Boeing-Analog\\source\\BoeingWatchView.mc" id="33" lineNum="464" pc="268441690" symbol="drawCaloriesBox"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Boeing-Analog\\source\\BoeingWatchView.mc" id="33" lineNum="469" pc="268441729" symbol="drawCaloriesBox"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Boeing-Analog\\source\\BoeingWatchView.mc" id="34" lineNum="472" pc="268441778" symbol="drawDistanceBox"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Boeing-Analog\\source\\BoeingWatchView.mc" id="34" lineNum="473" pc="268441782" symbol="drawDistanceBox"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Boeing-Analog\\source\\BoeingWatchView.mc" id="34" lineNum="474" pc="268441795" symbol="drawDistanceBox"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Boeing-Analog\\source\\BoeingWatchView.mc" id="34" lineNum="475" pc="268441795" symbol="drawDistanceBox"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Boeing-Analog\\source\\BoeingWatchView.mc" id="34" lineNum="476" pc="268441826" symbol="drawDistanceBox"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Boeing-Analog\\source\\BoeingWatchView.mc" id="34" lineNum="477" pc="268441844" symbol="drawDistanceBox"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Boeing-Analog\\source\\BoeingWatchView.mc" id="34" lineNum="478" pc="268441856" symbol="drawDistanceBox"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Boeing-Analog\\source\\BoeingWatchView.mc" id="34" lineNum="480" pc="268441869" symbol="drawDistanceBox"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Boeing-Analog\\source\\BoeingWatchView.mc" id="34" lineNum="481" pc="268441869" symbol="drawDistanceBox"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Boeing-Analog\\source\\BoeingWatchView.mc" id="34" lineNum="482" pc="268441880" symbol="drawDistanceBox"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Boeing-Analog\\source\\BoeingWatchView.mc" id="34" lineNum="484" pc="268441890" symbol="drawDistanceBox"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Boeing-Analog\\source\\BoeingWatchView.mc" id="34" lineNum="487" pc="268441908" symbol="drawDistanceBox"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Boeing-Analog\\source\\BoeingWatchView.mc" id="35" lineNum="490" pc="268441957" symbol="drawBatteryBox"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Boeing-Analog\\source\\BoeingWatchView.mc" id="35" lineNum="491" pc="268441961" symbol="drawBatteryBox"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Boeing-Analog\\source\\BoeingWatchView.mc" id="35" lineNum="492" pc="268441974" symbol="drawBatteryBox"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Boeing-Analog\\source\\BoeingWatchView.mc" id="35" lineNum="494" pc="268441997" symbol="drawBatteryBox"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Boeing-Analog\\source\\BoeingWatchView.mc" id="35" lineNum="496" pc="268442015" symbol="drawBatteryBox"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Boeing-Analog\\source\\BoeingWatchView.mc" id="36" lineNum="499" pc="268442064" symbol="drawTextBox"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Boeing-Analog\\source\\BoeingWatchView.mc" id="36" lineNum="500" pc="268442068" symbol="drawTextBox"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Boeing-Analog\\source\\BoeingWatchView.mc" id="36" lineNum="501" pc="268442085" symbol="drawTextBox"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Boeing-Analog\\source\\BoeingWatchView.mc" id="36" lineNum="502" pc="268442121" symbol="drawTextBox"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Boeing-Analog\\source\\BoeingWatchView.mc" id="36" lineNum="503" pc="268442132" symbol="drawTextBox"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Boeing-Analog\\source\\BoeingWatchView.mc" id="36" lineNum="506" pc="268442163" symbol="drawTextBox"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Boeing-Analog\\source\\BoeingWatchView.mc" id="36" lineNum="507" pc="268442199" symbol="drawTextBox"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Boeing-Analog\\source\\BoeingWatchView.mc" id="36" lineNum="516" pc="268442334" symbol="drawTextBox"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Boeing-Analog\\source\\BoeingWatchView.mc" id="37" lineNum="521" pc="268442349" symbol="drawScreenSaver"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Boeing-Analog\\source\\BoeingWatchView.mc" id="37" lineNum="522" pc="268442353" symbol="drawScreenSaver"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Boeing-Analog\\source\\BoeingWatchView.mc" id="37" lineNum="523" pc="268442370" symbol="drawScreenSaver"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Boeing-Analog\\source\\BoeingWatchView.mc" id="37" lineNum="524" pc="268442409" symbol="drawScreenSaver"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Boeing-Analog\\source\\BoeingWatchView.mc" id="37" lineNum="525" pc="268442441" symbol="drawScreenSaver"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Boeing-Analog\\source\\BoeingWatchView.mc" id="37" lineNum="528" pc="268442489" symbol="drawScreenSaver"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Boeing-Analog\\source\\BoeingWatchView.mc" id="37" lineNum="529" pc="268442496" symbol="drawScreenSaver"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Boeing-Analog\\source\\BoeingWatchView.mc" id="37" lineNum="530" pc="268442539" symbol="drawScreenSaver"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Boeing-Analog\\source\\BoeingWatchView.mc" id="37" lineNum="531" pc="268442582" symbol="drawScreenSaver"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Boeing-Analog\\source\\BoeingWatchView.mc" id="37" lineNum="532" pc="268442610" symbol="drawScreenSaver"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Boeing-Analog\\source\\BoeingWatchView.mc" id="37" lineNum="533" pc="268442638" symbol="drawScreenSaver"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Boeing-Analog\\source\\BoeingWatchView.mc" id="38" lineNum="539" pc="268442687" symbol="onShow"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Boeing-Analog\\source\\BoeingWatchView.mc" id="39" lineNum="546" pc="268442692" symbol="onHide"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Boeing-Analog\\source\\BoeingWatchView.mc" id="40" lineNum="550" pc="268442697" symbol="onExitSleep"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Boeing-Analog\\source\\BoeingWatchView.mc" id="40" lineNum="551" pc="268442701" symbol="onExitSleep"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Boeing-Analog\\source\\BoeingWatchView.mc" id="41" lineNum="555" pc="268442712" symbol="onEnterSleep"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Boeing-Analog\\source\\BoeingWatchView.mc" id="41" lineNum="556" pc="268442716" symbol="onEnterSleep"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Boeing-Analog\\source\\BoeingWatchView.mc" id="41" lineNum="47" pc="268443284" symbol="&lt;init&gt;"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Boeing-Analog\\source\\BoeingWatchView.mc" id="41" lineNum="49" pc="268443324" symbol="&lt;init&gt;"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Boeing-Analog\\source\\BoeingWatchView.mc" id="41" lineNum="50" pc="268443364" symbol="&lt;init&gt;"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Boeing-Analog\\source\\BoeingWatchView.mc" id="41" lineNum="51" pc="268443404" symbol="&lt;init&gt;"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Boeing-Analog\\source\\BoeingWatchView.mc" id="41" lineNum="52" pc="268443444" symbol="&lt;init&gt;"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Boeing-Analog\\source\\BoeingWatchView.mc" id="41" lineNum="53" pc="268443484" symbol="&lt;init&gt;"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Boeing-Analog\\source\\BoeingWatchView.mc" id="43" lineNum="567" pc="268442727" symbol="onPowerBudgetExceeded"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Boeing-Analog\\source\\BoeingWatchView.mc" id="43" lineNum="568" pc="268442731" symbol="onPowerBudgetExceeded"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Boeing-Analog\\source\\BoeingWatchView.mc" id="43" lineNum="569" pc="268442761" symbol="onPowerBudgetExceeded"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Boeing-Analog\\source\\BoeingWatchBackground.mc" id="45" lineNum="7" pc="268442795" symbol="initialize"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Boeing-Analog\\source\\BoeingWatchBackground.mc" id="45" lineNum="8" pc="268442799" symbol="initialize"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Boeing-Analog\\source\\BoeingWatchBackground.mc" id="45" lineNum="12" pc="268442820" symbol="initialize"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Boeing-Analog\\source\\BoeingWatchBackground.mc" id="46" lineNum="15" pc="268442841" symbol="draw"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Boeing-Analog\\source\\BoeingWatchBackground.mc" id="46" lineNum="17" pc="268442845" symbol="draw"/>
+<entry filename="C:\\Users\\winis\\OneDrive\\Programming\\GitHub\\Boeing-Analog\\source\\BoeingWatchBackground.mc" id="46" lineNum="18" pc="268442898" symbol="draw"/>
+<entry filename="Rez" id="52" lineNum="21" pc="268442911" symbol="WatchFace"/>
+<entry filename="Rez" id="52" lineNum="23" pc="268442923" symbol="WatchFace"/>
+<entry filename="Rez" id="52" lineNum="24" pc="268442947" symbol="WatchFace"/>
+<entry filename="Rez" id="52" lineNum="26" pc="268443110" symbol="WatchFace"/>
+</pcToLineNum>
+<symbolTable>
+<entry id="8388639" module="true" symbol="Graphics"/>
+<entry field="true" id="42" symbol="isDistanceMetric"/>
+<entry id="8389346" symbol="text"/>
+<entry field="true" id="62" symbol="relative_sec_hand_stroke"/>
+<entry field="true" id="39" symbol="lowPower"/>
+<entry id="12" object="true" symbol="AnalogDelegate"/>
+<entry id="8388632" method="true" symbol="&lt;init&gt;"/>
+<entry id="86" method="true" symbol="drawDate"/>
+<entry field="true" id="21" symbol="BigFont"/>
+<entry id="4" module="true" symbol="globals/Rez/Menus"/>
+<entry field="true" id="16" symbol="LargeLogo"/>
+<entry id="90" method="true" symbol="drawCaloriesBox"/>
+<entry id="8389683" method="true" symbol="onSettingsChanged"/>
+<entry field="true" id="74" symbol="battery_size"/>
+<entry field="true" id="69" symbol="box_padding"/>
+<entry id="8390098" method="true" symbol="onPowerBudgetExceeded"/>
+<entry field="true" id="40" symbol="offScreenBuffer"/>
+<entry field="true" id="54" symbol="relative_min_tick_length"/>
+<entry id="80" method="true" symbol="drawLogo"/>
+<entry field="true" id="28" symbol="MF_2"/>
+<entry field="true" id="35" symbol="MF_1"/>
+<entry field="true" id="33" symbol="MF_0"/>
+<entry field="true" id="30" symbol="RBD_6"/>
+<entry field="true" id="29" symbol="RBD_5"/>
+<entry field="true" id="32" symbol="RBD_4"/>
+<entry field="true" id="31" symbol="RBD_3"/>
+<entry field="true" id="25" symbol="RBD_2"/>
+<entry field="true" id="24" symbol="RBD_1"/>
+<entry field="true" id="27" symbol="RBD_0"/>
+<entry field="true" id="26" symbol="MilitaryFormatTitle"/>
+<entry id="8388924" module="true" symbol="Gregorian"/>
+<entry field="true" id="22" symbol="AlwaysOnTitle"/>
+<entry field="true" id="8388611" module="true" symbol="Toybox"/>
+<entry field="true" id="66" symbol="relative_plane_y"/>
+<entry id="81" method="true" symbol="drawBox"/>
+<entry id="75" method="true" symbol="updateValues"/>
+<entry id="89" method="true" symbol="drawFloorsBox"/>
+<entry field="true" id="34" symbol="AppName"/>
+<entry id="8" module="true" symbol="globals/Rez/Strings"/>
+<entry id="8388772" module="true" object="true" symbol="Fonts"/>
+<entry id="8389345" symbol="rezId"/>
+<entry field="true" id="44" symbol="partialUpdates"/>
+<entry id="91" method="true" symbol="drawDistanceBox"/>
+<entry field="true" id="51" symbol="showBoxes"/>
+<entry field="true" id="56" symbol="relative_min_tick_stroke"/>
+<entry id="8388648" module="true" symbol="WatchUi"/>
+<entry id="8390097" method="true" symbol="onPartialUpdate"/>
+<entry id="2" module="true" symbol="globals/Rez"/>
+<entry id="87" method="true" symbol="drawTimeBox"/>
+<entry field="true" id="48" symbol="lowMemDevice"/>
+<entry field="true" id="38" symbol="SecondHandColorTitle"/>
+<entry id="8389124" method="true" symbol="onUpdate"/>
+<entry id="8389375" method="true" object="true" symbol="WatchFace"/>
+<entry field="true" id="8389065" symbol="locY"/>
+<entry field="true" id="8389064" symbol="locX"/>
+<entry id="10" object="true" symbol="BoeingWatchGoalView"/>
+<entry field="true" id="64" symbol="relative_padding2"/>
+<entry field="true" id="18" symbol="LargePlane"/>
+<entry id="8388771" module="true" object="true" symbol="Drawables"/>
+<entry id="8389348" symbol="font"/>
+<entry field="true" id="8389067" symbol="height"/>
+<entry id="14" module="true" symbol="Menus"/>
+<entry id="6" module="true" symbol="globals/Rez/Layouts"/>
+<entry field="true" id="8389066" symbol="width"/>
+<entry field="true" id="57" symbol="relative_hour_hand_length"/>
+<entry field="true" id="65" symbol="relative_center_radius"/>
+<entry field="true" id="72" symbol="time_size"/>
+<entry id="94" method="true" symbol="drawScreenSaver"/>
+<entry id="8389122" method="true" symbol="onLayout"/>
+<entry field="true" id="43" symbol="clip"/>
+<entry field="true" id="71" symbol="date_size"/>
+<entry id="8389376" method="true" symbol="onEnterSleep"/>
+<entry field="true" id="8389063" symbol="identifier"/>
+<entry id="8389349" symbol="justification"/>
+<entry field="true" id="37" symbol="ShowTicksTitle"/>
+<entry id="7" module="true" symbol="globals/Rez/JsonData"/>
+<entry field="true" id="17" symbol="Plane"/>
+<entry field="true" id="15" symbol="Logo"/>
+<entry field="true" id="41" symbol="is24"/>
+<entry id="3" module="true" symbol="globals/Rez/Drawables"/>
+<entry field="true" id="68" symbol="text_padding"/>
+<entry id="11" object="true" symbol="BoeingWatchView"/>
+<entry field="true" id="45" symbol="showTicks"/>
+<entry field="true" id="67" symbol="relative_logo_y"/>
+<entry id="76" method="true" symbol="drawBackground"/>
+<entry field="true" id="60" symbol="relative_hour_hand_stroke"/>
+<entry field="true" id="58" symbol="relative_min_hand_length"/>
+<entry id="8389377" method="true" symbol="onExitSleep"/>
+<entry id="8388644" module="true" symbol="System"/>
+<entry id="8389916" method="true" symbol="getGoalView"/>
+<entry id="85" method="true" symbol="drawHandOffset"/>
+<entry id="77" method="true" symbol="centerOnLeft"/>
+<entry id="8388769" module="true" object="true" symbol="Rez"/>
+<entry field="true" id="36" symbol="ShowBoxesTitle"/>
+<entry field="true" id="23" symbol="RightBoxDipslayTitle"/>
+<entry id="8388640" module="true" symbol="Lang"/>
+<entry id="93" method="true" symbol="drawTextBox"/>
+<entry id="8390088" module="true" object="true" symbol="JsonData"/>
+<entry id="83" method="true" symbol="drawHand"/>
+<entry field="true" id="73" symbol="floors_size"/>
+<entry field="true" id="53" symbol="relative_hour_tick_length"/>
+<entry id="8389068" method="true" symbol="draw"/>
+<entry field="true" id="19" symbol="LauncherIcon"/>
+<entry id="8388610" symbol="statics"/>
+<entry id="88" method="true" symbol="drawStepBox"/>
+<entry id="8389123" method="true" symbol="onShow"/>
+<entry field="true" id="70" symbol="dow_size"/>
+<entry id="82" method="true" symbol="drawTicks"/>
+<entry id="8389350" module="true" symbol="globals"/>
+<entry field="true" id="8391194" symbol="requiresBurnInProtection"/>
+<entry id="8388770" module="true" object="true" symbol="Strings"/>
+<entry id="8390146" module="true" object="true" symbol="Background"/>
+<entry id="8388702" method="true" symbol="initialize"/>
+<entry id="8389279" method="true" symbol="onStart"/>
+<entry field="true" id="61" symbol="relative_min_hand_stroke"/>
+<entry id="78" method="true" symbol="centerOnRight"/>
+<entry field="true" id="50" symbol="version"/>
+<entry field="true" id="49" symbol="RBD"/>
+<entry field="true" id="47" symbol="needsProtection"/>
+<entry id="8389280" method="true" symbol="getInitialView"/>
+<entry id="8389281" method="true" symbol="onStop"/>
+<entry id="79" method="true" symbol="drawPlane"/>
+<entry field="true" id="59" symbol="relative_sec_hand_length"/>
+<entry id="8389347" symbol="color"/>
+<entry field="true" id="52" symbol="relative_tick_stroke"/>
+<entry field="true" id="55" symbol="relative_hour_tick_stroke"/>
+<entry id="84" method="true" symbol="drawSecondHandClip"/>
+<entry id="13" module="true" symbol="Layouts"/>
+<entry id="9" object="true" symbol="BoeingWatchApp"/>
+<entry field="true" id="46" symbol="mainFont"/>
+<entry id="92" method="true" symbol="drawBatteryBox"/>
+<entry id="5" module="true" symbol="globals/Rez/Fonts"/>
+<entry field="true" id="20" symbol="MainFont"/>
+<entry id="8389125" method="true" symbol="onHide"/>
+<entry id="8388635" module="true" symbol="Application"/>
+<entry field="true" id="63" symbol="relative_padding"/>
+</symbolTable>
+<localVars>
+<entry arg="true" endPc="268435484" name="state" stackId="1" startPc="268435479"/>
+<entry arg="true" endPc="268435489" name="state" stackId="1" startPc="268435484"/>
+<entry arg="true" endPc="268435589" name="goal" stackId="1" startPc="268435582"/>
+<entry arg="true" endPc="268435594" name="goal" stackId="1" startPc="268435589"/>
+<entry arg="true" endPc="268435611" name="dc" stackId="1" startPc="268435594"/>
+<entry arg="true" endPc="268435616" name="dc" stackId="1" startPc="268435611"/>
+<entry arg="true" endPc="268436304" name="dc" stackId="1" startPc="268435639"/>
+<entry endPc="268436924" name="hours" stackId="3" startPc="268436410"/>
+<entry endPc="268436924" name="minutes" stackId="4" startPc="268436410"/>
+<entry endPc="268436924" name="width" stackId="6" startPc="268436410"/>
+<entry endPc="268436924" name="clockTime" stackId="2" startPc="268436410"/>
+<entry endPc="268436924" name="seconds" stackId="5" startPc="268436410"/>
+<entry arg="true" endPc="268436925" name="dc" stackId="1" startPc="268436304"/>
+<entry endPc="268437175" name="hours" stackId="3" startPc="268436940"/>
+<entry endPc="268437175" name="minutes" stackId="4" startPc="268436940"/>
+<entry endPc="268437175" name="width" stackId="6" startPc="268436940"/>
+<entry endPc="268437175" name="clockTime" stackId="2" startPc="268436940"/>
+<entry endPc="268437175" name="seconds" stackId="5" startPc="268436940"/>
+<entry arg="true" endPc="268437179" name="dc" stackId="1" startPc="268436925"/>
+<entry endPc="268437658" name="distanceMetric" stackId="2" startPc="268437183"/>
+<entry endPc="268437658" name="UMF" stackId="1" startPc="268437183"/>
+<entry endPc="268438178" name="height" stackId="7" startPc="268437663"/>
+<entry endPc="268438178" name="hours" stackId="3" startPc="268437663"/>
+<entry endPc="268438178" name="minutes" stackId="4" startPc="268437663"/>
+<entry endPc="268438178" name="width" stackId="6" startPc="268437663"/>
+<entry endPc="268438178" name="clockTime" stackId="2" startPc="268437663"/>
+<entry endPc="268438178" name="seconds" stackId="5" startPc="268437663"/>
+<entry arg="true" endPc="268438179" name="dc" stackId="1" startPc="268437659"/>
+<entry endPc="268438265" name="width" stackId="3" startPc="268438183"/>
+<entry arg="true" endPc="268438266" name="dc" stackId="1" startPc="268438179"/>
+<entry arg="true" endPc="268438266" name="size" stackId="2" startPc="268438179"/>
+<entry endPc="268438358" name="width" stackId="3" startPc="268438270"/>
+<entry arg="true" endPc="268438359" name="dc" stackId="1" startPc="268438266"/>
+<entry arg="true" endPc="268438359" name="size" stackId="2" startPc="268438266"/>
+<entry endPc="268438601" name="plane" stackId="2" startPc="268438363"/>
+<entry endPc="268438601" name="width" stackId="3" startPc="268438363"/>
+<entry arg="true" endPc="268438602" name="dc" stackId="1" startPc="268438359"/>
+<entry endPc="268438844" name="width" stackId="3" startPc="268438606"/>
+<entry endPc="268438844" name="logo" stackId="2" startPc="268438606"/>
+<entry arg="true" endPc="268438845" name="dc" stackId="1" startPc="268438602"/>
+<entry endPc="268438966" name="x" stackId="3" startPc="268438879"/>
+<entry endPc="268438966" name="y" stackId="4" startPc="268438879"/>
+<entry endPc="268439073" name="x" stackId="5" startPc="268438986"/>
+<entry endPc="268439073" name="y" stackId="6" startPc="268438986"/>
+<entry endPc="268439180" name="x" stackId="7" startPc="268439093"/>
+<entry endPc="268439180" name="y" stackId="8" startPc="268439093"/>
+<entry endPc="268439287" name="x" stackId="9" startPc="268439200"/>
+<entry endPc="268439287" name="y" stackId="10" startPc="268439200"/>
+<entry endPc="268439394" name="x" stackId="11" startPc="268439307"/>
+<entry endPc="268439394" name="y" stackId="12" startPc="268439307"/>
+<entry endPc="268439501" name="x" stackId="13" startPc="268439414"/>
+<entry endPc="268439501" name="y" stackId="14" startPc="268439414"/>
+<entry endPc="268439504" name="width" stackId="2" startPc="268438849"/>
+<entry arg="true" endPc="268439505" name="dc" stackId="1" startPc="268438845"/>
+<entry endPc="268439811" name="x2" stackId="11" startPc="268439585"/>
+<entry endPc="268439811" name="x1" stackId="9" startPc="268439585"/>
+<entry endPc="268439811" name="y2" stackId="12" startPc="268439585"/>
+<entry endPc="268439811" name="y1" stackId="10" startPc="268439585"/>
+<entry endPc="268439811" name="angle" stackId="8" startPc="268439585"/>
+<entry endPc="268439824" name="i" stackId="7" startPc="268439585"/>
+<entry endPc="268439824" name="center" stackId="6" startPc="268439509"/>
+<entry endPc="268439824" name="tickAngle" stackId="5" startPc="268439509"/>
+<entry arg="true" endPc="268439825" name="dc" stackId="1" startPc="268439505"/>
+<entry arg="true" endPc="268439825" name="num" stackId="4" startPc="268439505"/>
+<entry arg="true" endPc="268439825" name="length" stackId="2" startPc="268439505"/>
+<entry arg="true" endPc="268439825" name="stroke" stackId="3" startPc="268439505"/>
+<entry endPc="268440021" name="x" stackId="8" startPc="268439829"/>
+<entry endPc="268440021" name="center" stackId="7" startPc="268439829"/>
+<entry endPc="268440021" name="angle" stackId="6" startPc="268439829"/>
+<entry endPc="268440021" name="y" stackId="9" startPc="268439829"/>
+<entry arg="true" endPc="268440022" name="dc" stackId="1" startPc="268439825"/>
+<entry arg="true" endPc="268440022" name="num" stackId="2" startPc="268439825"/>
+<entry arg="true" endPc="268440022" name="length" stackId="4" startPc="268439825"/>
+<entry arg="true" endPc="268440022" name="stroke" stackId="5" startPc="268439825"/>
+<entry arg="true" endPc="268440022" name="time" stackId="3" startPc="268439825"/>
+<entry endPc="268440652" name="padding2" stackId="17" startPc="268440026"/>
+<entry endPc="268440652" name="center" stackId="7" startPc="268440026"/>
+<entry endPc="268440652" name="width2" stackId="14" startPc="268440026"/>
+<entry endPc="268440652" name="width" stackId="12" startPc="268440026"/>
+<entry endPc="268440652" name="angle" stackId="6" startPc="268440026"/>
+<entry endPc="268440652" name="height2" stackId="15" startPc="268440026"/>
+<entry endPc="268440652" name="sinval" stackId="9" startPc="268440026"/>
+<entry endPc="268440652" name="y" stackId="11" startPc="268440026"/>
+<entry endPc="268440652" name="padding" stackId="16" startPc="268440026"/>
+<entry endPc="268440652" name="x" stackId="10" startPc="268440026"/>
+<entry endPc="268440652" name="height" stackId="13" startPc="268440026"/>
+<entry endPc="268440652" name="cosval" stackId="8" startPc="268440026"/>
+<entry arg="true" endPc="268440653" name="dc" stackId="1" startPc="268440022"/>
+<entry arg="true" endPc="268440653" name="num" stackId="2" startPc="268440022"/>
+<entry arg="true" endPc="268440653" name="length" stackId="4" startPc="268440022"/>
+<entry arg="true" endPc="268440653" name="stroke" stackId="5" startPc="268440022"/>
+<entry arg="true" endPc="268440653" name="time" stackId="3" startPc="268440022"/>
+<entry endPc="268440889" name="x" stackId="11" startPc="268440657"/>
+<entry endPc="268440889" name="center" stackId="10" startPc="268440657"/>
+<entry endPc="268440889" name="section" stackId="9" startPc="268440657"/>
+<entry endPc="268440889" name="angle" stackId="8" startPc="268440657"/>
+<entry endPc="268440889" name="y" stackId="12" startPc="268440657"/>
+<entry arg="true" endPc="268440890" name="offsetNum" stackId="3" startPc="268440653"/>
+<entry arg="true" endPc="268440890" name="dc" stackId="1" startPc="268440653"/>
+<entry arg="true" endPc="268440890" name="num" stackId="2" startPc="268440653"/>
+<entry arg="true" endPc="268440890" name="length" stackId="6" startPc="268440653"/>
+<entry arg="true" endPc="268440890" name="offsetTime" stackId="5" startPc="268440653"/>
+<entry arg="true" endPc="268440890" name="stroke" stackId="7" startPc="268440653"/>
+<entry arg="true" endPc="268440890" name="time" stackId="4" startPc="268440653"/>
+<entry endPc="268441110" name="height" stackId="5" startPc="268440894"/>
+<entry endPc="268441110" name="width" stackId="4" startPc="268440894"/>
+<entry endPc="268441110" name="dowString" stackId="7" startPc="268440894"/>
+<entry endPc="268441110" name="info" stackId="6" startPc="268440894"/>
+<entry arg="true" endPc="268441111" name="x" stackId="2" startPc="268440890"/>
+<entry arg="true" endPc="268441111" name="dc" stackId="1" startPc="268440890"/>
+<entry arg="true" endPc="268441111" name="y" stackId="3" startPc="268440890"/>
+<entry endPc="268441350" name="hours" stackId="7" startPc="268441115"/>
+<entry endPc="268441350" name="hourString" stackId="8" startPc="268441115"/>
+<entry endPc="268441350" name="width" stackId="4" startPc="268441115"/>
+<entry endPc="268441350" name="clockTime" stackId="6" startPc="268441115"/>
+<entry endPc="268441350" name="info" stackId="5" startPc="268441115"/>
+<entry arg="true" endPc="268441351" name="x" stackId="2" startPc="268441111"/>
+<entry arg="true" endPc="268441351" name="dc" stackId="1" startPc="268441111"/>
+<entry arg="true" endPc="268441351" name="y" stackId="3" startPc="268441111"/>
+<entry endPc="268441501" name="steps" stackId="5" startPc="268441355"/>
+<entry endPc="268441501" name="width" stackId="4" startPc="268441355"/>
+<entry endPc="268441501" name="stepString" stackId="6" startPc="268441355"/>
+<entry arg="true" endPc="268441502" name="x" stackId="2" startPc="268441351"/>
+<entry arg="true" endPc="268441502" name="dc" stackId="1" startPc="268441351"/>
+<entry arg="true" endPc="268441502" name="y" stackId="3" startPc="268441351"/>
+<entry endPc="268441626" name="floors" stackId="5" startPc="268441506"/>
+<entry endPc="268441626" name="width" stackId="4" startPc="268441506"/>
+<entry endPc="268441626" name="floorString" stackId="6" startPc="268441506"/>
+<entry arg="true" endPc="268441627" name="x" stackId="2" startPc="268441502"/>
+<entry arg="true" endPc="268441627" name="dc" stackId="1" startPc="268441502"/>
+<entry arg="true" endPc="268441627" name="y" stackId="3" startPc="268441502"/>
+<entry endPc="268441777" name="calorieString" stackId="6" startPc="268441631"/>
+<entry endPc="268441777" name="width" stackId="4" startPc="268441631"/>
+<entry endPc="268441777" name="calories" stackId="5" startPc="268441631"/>
+<entry arg="true" endPc="268441778" name="x" stackId="2" startPc="268441627"/>
+<entry arg="true" endPc="268441778" name="dc" stackId="1" startPc="268441627"/>
+<entry arg="true" endPc="268441778" name="y" stackId="3" startPc="268441627"/>
+<entry endPc="268441956" name="distanceString" stackId="6" startPc="268441782"/>
+<entry endPc="268441956" name="width" stackId="4" startPc="268441782"/>
+<entry endPc="268441956" name="distance" stackId="5" startPc="268441782"/>
+<entry arg="true" endPc="268441957" name="x" stackId="2" startPc="268441778"/>
+<entry arg="true" endPc="268441957" name="dc" stackId="1" startPc="268441778"/>
+<entry arg="true" endPc="268441957" name="y" stackId="3" startPc="268441778"/>
+<entry endPc="268442063" name="batteryString" stackId="6" startPc="268441961"/>
+<entry endPc="268442063" name="battery" stackId="5" startPc="268441961"/>
+<entry endPc="268442063" name="width" stackId="4" startPc="268441961"/>
+<entry arg="true" endPc="268442064" name="x" stackId="2" startPc="268441957"/>
+<entry arg="true" endPc="268442064" name="dc" stackId="1" startPc="268441957"/>
+<entry arg="true" endPc="268442064" name="y" stackId="3" startPc="268441957"/>
+<entry endPc="268442348" name="boxText" stackId="7" startPc="268442068"/>
+<entry arg="true" endPc="268442349" name="height" stackId="6" startPc="268442064"/>
+<entry arg="true" endPc="268442349" name="x" stackId="3" startPc="268442064"/>
+<entry arg="true" endPc="268442349" name="dc" stackId="1" startPc="268442064"/>
+<entry arg="true" endPc="268442349" name="width" stackId="5" startPc="268442064"/>
+<entry arg="true" endPc="268442349" name="text" stackId="2" startPc="268442064"/>
+<entry arg="true" endPc="268442349" name="y" stackId="4" startPc="268442064"/>
+<entry endPc="268442686" name="x" stackId="7" startPc="268442353"/>
+<entry endPc="268442686" name="maxh" stackId="6" startPc="268442353"/>
+<entry endPc="268442686" name="timeString" stackId="3" startPc="268442353"/>
+<entry endPc="268442686" name="clockTime" stackId="2" startPc="268442353"/>
+<entry endPc="268442686" name="pad" stackId="4" startPc="268442353"/>
+<entry endPc="268442686" name="y" stackId="8" startPc="268442353"/>
+<entry endPc="268442686" name="maxw" stackId="5" startPc="268442353"/>
+<entry arg="true" endPc="268442687" name="dc" stackId="1" startPc="268442349"/>
+<entry arg="true" endPc="268442792" name="powerInfo" stackId="1" startPc="268442727"/>
+<entry endPc="268442840" name="dictionary" stackId="1" startPc="268442799"/>
+<entry arg="true" endPc="268442911" name="dc" stackId="1" startPc="268442841"/>
+<entry endPc="268443137" name="rez_cmp_local_custom_drawable_74858699819323685376" stackId="2" startPc="268442923"/>
+<entry endPc="268443137" name="rez_cmp_local_text_TimeLabel" stackId="3" startPc="268442923"/>
+<entry arg="true" endPc="268443138" name="dc" stackId="1" startPc="268442911"/>
+</localVars>
+<annotations/>
+<dataEntryOffsetMappings>
+<dataEntry offset="87" parentId="" symbolId="globals" type="module"/>
+<dataEntry offset="174" parentId="globals" symbolId="Background" type="class"/>
+<dataEntry offset="229" parentId="globals" symbolId="BoeingWatchApp" type="class"/>
+<dataEntry offset="316" parentId="globals" symbolId="Rez" type="module"/>
+<dataEntry offset="395" parentId="Rez" symbolId="Drawables" type="module"/>
+<dataEntry offset="466" parentId="Rez" symbolId="Menus" type="module"/>
+<dataEntry offset="497" parentId="Rez" symbolId="Fonts" type="module"/>
+<dataEntry offset="544" parentId="Rez" symbolId="Layouts" type="module"/>
+<dataEntry offset="583" parentId="Rez" symbolId="JsonData" type="module"/>
+<dataEntry offset="614" parentId="Rez" symbolId="Strings" type="module"/>
+<dataEntry offset="781" parentId="globals" symbolId="BoeingWatchGoalView" type="class"/>
+<dataEntry offset="844" parentId="globals" symbolId="BoeingWatchView" type="class"/>
+<dataEntry offset="1395" parentId="globals" symbolId="AnalogDelegate" type="class"/>
+</dataEntryOffsetMappings>
+<functions>
+<functionEntry accessMode="public" name="initialize" parent="BoeingWatchApp">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onStart" parent="BoeingWatchApp">
+<param id="state"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onStop" parent="BoeingWatchApp">
+<param id="state"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="getInitialView" parent="BoeingWatchApp">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onSettingsChanged" parent="BoeingWatchApp">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="getGoalView" parent="BoeingWatchApp">
+<param id="goal"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="initialize" parent="BoeingWatchGoalView">
+<param id="goal"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onLayout" parent="BoeingWatchGoalView">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onUpdate" parent="BoeingWatchGoalView">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="initialize" parent="BoeingWatchView">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onLayout" parent="BoeingWatchView">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onUpdate" parent="BoeingWatchView">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onPartialUpdate" parent="BoeingWatchView">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="updateValues" parent="BoeingWatchView">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="drawBackground" parent="BoeingWatchView">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="centerOnLeft" parent="BoeingWatchView">
+<param id="dc"/>
+<param id="size"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="centerOnRight" parent="BoeingWatchView">
+<param id="dc"/>
+<param id="size"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="drawPlane" parent="BoeingWatchView">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="drawLogo" parent="BoeingWatchView">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="drawBox" parent="BoeingWatchView">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="drawTicks" parent="BoeingWatchView">
+<param id="dc"/>
+<param id="length"/>
+<param id="stroke"/>
+<param id="num"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="drawHand" parent="BoeingWatchView">
+<param id="dc"/>
+<param id="num"/>
+<param id="time"/>
+<param id="length"/>
+<param id="stroke"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="drawSecondHandClip" parent="BoeingWatchView">
+<param id="dc"/>
+<param id="num"/>
+<param id="time"/>
+<param id="length"/>
+<param id="stroke"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="drawHandOffset" parent="BoeingWatchView">
+<param id="dc"/>
+<param id="num"/>
+<param id="offsetNum"/>
+<param id="time"/>
+<param id="offsetTime"/>
+<param id="length"/>
+<param id="stroke"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="drawDate" parent="BoeingWatchView">
+<param id="dc"/>
+<param id="x"/>
+<param id="y"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="drawTimeBox" parent="BoeingWatchView">
+<param id="dc"/>
+<param id="x"/>
+<param id="y"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="drawStepBox" parent="BoeingWatchView">
+<param id="dc"/>
+<param id="x"/>
+<param id="y"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="drawFloorsBox" parent="BoeingWatchView">
+<param id="dc"/>
+<param id="x"/>
+<param id="y"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="drawCaloriesBox" parent="BoeingWatchView">
+<param id="dc"/>
+<param id="x"/>
+<param id="y"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="drawDistanceBox" parent="BoeingWatchView">
+<param id="dc"/>
+<param id="x"/>
+<param id="y"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="drawBatteryBox" parent="BoeingWatchView">
+<param id="dc"/>
+<param id="x"/>
+<param id="y"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="drawTextBox" parent="BoeingWatchView">
+<param id="dc"/>
+<param id="text"/>
+<param id="x"/>
+<param id="y"/>
+<param id="width"/>
+<param id="height"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="drawScreenSaver" parent="BoeingWatchView">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onShow" parent="BoeingWatchView">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onHide" parent="BoeingWatchView">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onExitSleep" parent="BoeingWatchView">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onEnterSleep" parent="BoeingWatchView">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onPowerBudgetExceeded" parent="AnalogDelegate">
+<param id="powerInfo"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="initialize" parent="Background">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="draw" parent="Background">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="WatchFace" parent="Layouts">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+</functions>
+</debugInfo>

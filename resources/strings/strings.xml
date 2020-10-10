@@ -1,0 +1,24 @@
+<strings>
+
+    <string id="AppName">Boeing Watch</string>
+    
+    <string id="MilitaryFormatTitle">Use 24 Hour Time</string>
+   	<string id="MF_0">Yes</string>
+   	<string id="MF_1">No</string>
+   	<string id="MF_2">Use System Default</string>
+   		
+    <string id="ShowTicksTitle">Show ticks around watch face</string>
+    <string id="RightBoxDipslayTitle">Select what to display in the right hand box on the watch face</string>
+    <string id="SecondHandColorTitle">Second hand color</string>
+    <string id="AlwaysOnTitle">Always update watch face(currently not avaliable on the Vivoactive 4, Fenix 6. and the Fenix 6x)</string>
+    <string id="ShowBoxesTitle">Show boxes around text labels</string>
+    
+    <string id="RBD_0">Blank</string>
+    <string id="RBD_1">Time</string>
+    <string id="RBD_2">Steps</string>
+    <string id="RBD_3">Floors Climbed</string>
+    <string id="RBD_4">Calories Burned</string>
+    <string id="RBD_5">Distance</string>
+    <string id="RBD_6">Battery</string>
+
+</strings>

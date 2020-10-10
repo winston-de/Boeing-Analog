@@ -1,0 +1,24 @@
+<strings>
+
+    <string id="AppName">Montre Boeing</string>
+    
+    <string id="MilitaryFormatTitle">Utiliser 24 heures</string>
+   	<string id="MF_0">Oui</string>
+   	<string id="MF_1">Non</string>
+   	<string id="MF_2">Utiliser le système par défaut</string>
+   		
+    <string id="ShowTicksTitle">Afficher les tiques autour du visage de montre</string>
+    <string id="RightBoxDipslayTitle">Sélectionnez ce qu'il faut afficher dans la boîte de droite sur le visage de la montre</string>
+    <string id="SecondHandColorTitle">Couleur de seconde main</string>
+    <string id="AlwaysOnTitle">Toujours mettre à jour le visage de montre (actuellement pas avaliable sur le Vivoactive 4, Fenix 6. et le Fenix 6x)</string>
+    <string id="ShowBoxesTitle">Afficher les cases autour des étiquettes de texte</string>
+    
+    <string id="RBD_0">Blanc</string>
+    <string id="RBD_1">Temps</string>
+    <string id="RBD_2">Étapes</string>
+    <string id="RBD_3">Planchers escaladés</string>
+    <string id="RBD_4">Calories brûlées</string>
+    <string id="RBD_5">Distance</string>
+    <string id="RBD_6">Batterie</string>
+
+</strings>

@@ -1,0 +1,831 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<debugInfo>
+    <pcToLineNum>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\BoeingWatch\\source\\BoeingWatchApp.mc" id="3" lineNum="6" pc="268435456" symbol="initialize"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\BoeingWatch\\source\\BoeingWatchApp.mc" id="3" lineNum="7" pc="268435460" symbol="initialize"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\BoeingWatch\\source\\BoeingWatchApp.mc" id="4" lineNum="11" pc="268435479" symbol="onStart"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\BoeingWatch\\source\\BoeingWatchApp.mc" id="5" lineNum="15" pc="268435484" symbol="onStop"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\BoeingWatch\\source\\BoeingWatchApp.mc" id="6" lineNum="19" pc="268435489" symbol="getInitialView"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\BoeingWatch\\source\\BoeingWatchApp.mc" id="6" lineNum="20" pc="268435493" symbol="getInitialView"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\BoeingWatch\\source\\BoeingWatchApp.mc" id="7" lineNum="24" pc="268435561" symbol="onSettingsChanged"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\BoeingWatch\\source\\BoeingWatchApp.mc" id="7" lineNum="25" pc="268435565" symbol="onSettingsChanged"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\BoeingWatch\\source\\BoeingWatchApp.mc" id="8" lineNum="29" pc="268435582" symbol="getGoalView"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\BoeingWatch\\source\\BoeingWatchApp.mc" id="8" lineNum="32" pc="268435586" symbol="getGoalView"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\BoeingWatch\\source\\BoeingWatchView.mc" id="10" lineNum="56" pc="268435589" symbol="initialize"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\BoeingWatch\\source\\BoeingWatchView.mc" id="10" lineNum="57" pc="268435593" symbol="initialize"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\BoeingWatch\\source\\BoeingWatchView.mc" id="11" lineNum="61" pc="268435612" symbol="onLayout"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\BoeingWatch\\source\\BoeingWatchView.mc" id="11" lineNum="62" pc="268435616" symbol="onLayout"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\BoeingWatch\\source\\BoeingWatchView.mc" id="11" lineNum="65" pc="268435650" symbol="onLayout"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\BoeingWatch\\source\\BoeingWatchView.mc" id="11" lineNum="66" pc="268435703" symbol="onLayout"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\BoeingWatch\\source\\BoeingWatchView.mc" id="11" lineNum="67" pc="268435713" symbol="onLayout"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\BoeingWatch\\source\\BoeingWatchView.mc" id="11" lineNum="71" pc="268435726" symbol="onLayout"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\BoeingWatch\\source\\BoeingWatchView.mc" id="11" lineNum="72" pc="268435777" symbol="onLayout"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\BoeingWatch\\source\\BoeingWatchView.mc" id="11" lineNum="73" pc="268435787" symbol="onLayout"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\BoeingWatch\\source\\BoeingWatchView.mc" id="11" lineNum="76" pc="268435800" symbol="onLayout"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\BoeingWatch\\source\\BoeingWatchView.mc" id="11" lineNum="80" pc="268435837" symbol="onLayout"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\BoeingWatch\\source\\BoeingWatchView.mc" id="11" lineNum="81" pc="268435864" symbol="onLayout"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\BoeingWatch\\source\\BoeingWatchView.mc" id="11" lineNum="86" pc="268435945" symbol="onLayout"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\BoeingWatch\\source\\BoeingWatchView.mc" id="11" lineNum="89" pc="268435955" symbol="onLayout"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\BoeingWatch\\source\\BoeingWatchView.mc" id="11" lineNum="91" pc="268435975" symbol="onLayout"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\BoeingWatch\\source\\BoeingWatchView.mc" id="11" lineNum="92" pc="268436018" symbol="onLayout"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\BoeingWatch\\source\\BoeingWatchView.mc" id="11" lineNum="93" pc="268436058" symbol="onLayout"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\BoeingWatch\\source\\BoeingWatchView.mc" id="11" lineNum="94" pc="268436098" symbol="onLayout"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\BoeingWatch\\source\\BoeingWatchView.mc" id="11" lineNum="95" pc="268436138" symbol="onLayout"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\BoeingWatch\\source\\BoeingWatchView.mc" id="11" lineNum="96" pc="268436178" symbol="onLayout"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\BoeingWatch\\source\\BoeingWatchView.mc" id="11" lineNum="98" pc="268436221" symbol="onLayout"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\BoeingWatch\\source\\BoeingWatchView.mc" id="11" lineNum="100" pc="268436264" symbol="onLayout"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\BoeingWatch\\source\\BoeingWatchView.mc" id="12" lineNum="105" pc="268436277" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\BoeingWatch\\source\\BoeingWatchView.mc" id="12" lineNum="106" pc="268436281" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\BoeingWatch\\source\\BoeingWatchView.mc" id="12" lineNum="107" pc="268436306" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\BoeingWatch\\source\\BoeingWatchView.mc" id="12" lineNum="108" pc="268436342" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\BoeingWatch\\source\\BoeingWatchView.mc" id="12" lineNum="109" pc="268436354" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\BoeingWatch\\source\\BoeingWatchView.mc" id="12" lineNum="110" pc="268436366" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\BoeingWatch\\source\\BoeingWatchView.mc" id="12" lineNum="112" pc="268436383" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\BoeingWatch\\source\\BoeingWatchView.mc" id="12" lineNum="113" pc="268436400" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\BoeingWatch\\source\\BoeingWatchView.mc" id="12" lineNum="114" pc="268436410" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\BoeingWatch\\source\\BoeingWatchView.mc" id="12" lineNum="115" pc="268436420" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\BoeingWatch\\source\\BoeingWatchView.mc" id="12" lineNum="116" pc="268436430" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\BoeingWatch\\source\\BoeingWatchView.mc" id="12" lineNum="118" pc="268436443" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\BoeingWatch\\source\\BoeingWatchView.mc" id="12" lineNum="119" pc="268436455" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\BoeingWatch\\source\\BoeingWatchView.mc" id="12" lineNum="121" pc="268436467" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\BoeingWatch\\source\\BoeingWatchView.mc" id="12" lineNum="122" pc="268436478" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\BoeingWatch\\source\\BoeingWatchView.mc" id="12" lineNum="123" pc="268436507" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\BoeingWatch\\source\\BoeingWatchView.mc" id="12" lineNum="125" pc="268436540" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\BoeingWatch\\source\\BoeingWatchView.mc" id="12" lineNum="129" pc="268436554" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\BoeingWatch\\source\\BoeingWatchView.mc" id="12" lineNum="130" pc="268436608" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\BoeingWatch\\source\\BoeingWatchView.mc" id="12" lineNum="131" pc="268436644" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\BoeingWatch\\source\\BoeingWatchView.mc" id="12" lineNum="132" pc="268436690" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\BoeingWatch\\source\\BoeingWatchView.mc" id="12" lineNum="133" pc="268436716" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\BoeingWatch\\source\\BoeingWatchView.mc" id="12" lineNum="134" pc="268436752" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\BoeingWatch\\source\\BoeingWatchView.mc" id="12" lineNum="137" pc="268436798" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\BoeingWatch\\source\\BoeingWatchView.mc" id="12" lineNum="138" pc="268436834" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\BoeingWatch\\source\\BoeingWatchView.mc" id="13" lineNum="143" pc="268436898" symbol="onPartialUpdate"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\BoeingWatch\\source\\BoeingWatchView.mc" id="13" lineNum="144" pc="268436902" symbol="onPartialUpdate"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\BoeingWatch\\source\\BoeingWatchView.mc" id="13" lineNum="145" pc="268436913" symbol="onPartialUpdate"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\BoeingWatch\\source\\BoeingWatchView.mc" id="13" lineNum="146" pc="268436930" symbol="onPartialUpdate"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\BoeingWatch\\source\\BoeingWatchView.mc" id="13" lineNum="147" pc="268436940" symbol="onPartialUpdate"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\BoeingWatch\\source\\BoeingWatchView.mc" id="13" lineNum="148" pc="268436950" symbol="onPartialUpdate"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\BoeingWatch\\source\\BoeingWatchView.mc" id="13" lineNum="149" pc="268436960" symbol="onPartialUpdate"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\BoeingWatch\\source\\BoeingWatchView.mc" id="13" lineNum="152" pc="268436973" symbol="onPartialUpdate"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\BoeingWatch\\source\\BoeingWatchView.mc" id="13" lineNum="153" pc="268437009" symbol="onPartialUpdate"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\BoeingWatch\\source\\BoeingWatchView.mc" id="13" lineNum="155" pc="268437052" symbol="onPartialUpdate"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\BoeingWatch\\source\\BoeingWatchView.mc" id="13" lineNum="156" pc="268437088" symbol="onPartialUpdate"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\BoeingWatch\\source\\BoeingWatchView.mc" id="14" lineNum="161" pc="268437152" symbol="updateValues"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\BoeingWatch\\source\\BoeingWatchView.mc" id="14" lineNum="162" pc="268437156" symbol="updateValues"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\BoeingWatch\\source\\BoeingWatchView.mc" id="14" lineNum="163" pc="268437187" symbol="updateValues"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\BoeingWatch\\source\\BoeingWatchView.mc" id="14" lineNum="164" pc="268437198" symbol="updateValues"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\BoeingWatch\\source\\BoeingWatchView.mc" id="14" lineNum="166" pc="268437211" symbol="updateValues"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\BoeingWatch\\source\\BoeingWatchView.mc" id="14" lineNum="167" pc="268437222" symbol="updateValues"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\BoeingWatch\\source\\BoeingWatchView.mc" id="14" lineNum="169" pc="268437235" symbol="updateValues"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\BoeingWatch\\source\\BoeingWatchView.mc" id="14" lineNum="170" pc="268437246" symbol="updateValues"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\BoeingWatch\\source\\BoeingWatchView.mc" id="14" lineNum="173" pc="268437278" symbol="updateValues"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\BoeingWatch\\source\\BoeingWatchView.mc" id="14" lineNum="174" pc="268437301" symbol="updateValues"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\BoeingWatch\\source\\BoeingWatchView.mc" id="14" lineNum="175" pc="268437319" symbol="updateValues"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\BoeingWatch\\source\\BoeingWatchView.mc" id="14" lineNum="177" pc="268437332" symbol="updateValues"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\BoeingWatch\\source\\BoeingWatchView.mc" id="14" lineNum="180" pc="268437342" symbol="updateValues"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\BoeingWatch\\source\\BoeingWatchView.mc" id="14" lineNum="181" pc="268437379" symbol="updateValues"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\BoeingWatch\\source\\BoeingWatchView.mc" id="14" lineNum="182" pc="268437416" symbol="updateValues"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\BoeingWatch\\source\\BoeingWatchView.mc" id="14" lineNum="184" pc="268437453" symbol="updateValues"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\BoeingWatch\\source\\BoeingWatchView.mc" id="14" lineNum="185" pc="268437515" symbol="updateValues"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\BoeingWatch\\source\\BoeingWatchView.mc" id="14" lineNum="187" pc="268437528" symbol="updateValues"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\BoeingWatch\\source\\BoeingWatchView.mc" id="14" lineNum="190" pc="268437538" symbol="updateValues"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\BoeingWatch\\source\\BoeingWatchView.mc" id="14" lineNum="191" pc="268437550" symbol="updateValues"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\BoeingWatch\\source\\BoeingWatchView.mc" id="14" lineNum="192" pc="268437563" symbol="updateValues"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\BoeingWatch\\source\\BoeingWatchView.mc" id="14" lineNum="193" pc="268437576" symbol="updateValues"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\BoeingWatch\\source\\BoeingWatchView.mc" id="14" lineNum="195" pc="268437592" symbol="updateValues"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\BoeingWatch\\source\\BoeingWatchView.mc" id="14" lineNum="196" pc="268437605" symbol="updateValues"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\BoeingWatch\\source\\BoeingWatchView.mc" id="14" lineNum="197" pc="268437618" symbol="updateValues"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\BoeingWatch\\source\\BoeingWatchView.mc" id="15" lineNum="202" pc="268437632" symbol="drawBackground"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\BoeingWatch\\source\\BoeingWatchView.mc" id="15" lineNum="203" pc="268437636" symbol="drawBackground"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\BoeingWatch\\source\\BoeingWatchView.mc" id="15" lineNum="204" pc="268437653" symbol="drawBackground"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\BoeingWatch\\source\\BoeingWatchView.mc" id="15" lineNum="205" pc="268437663" symbol="drawBackground"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\BoeingWatch\\source\\BoeingWatchView.mc" id="15" lineNum="206" pc="268437673" symbol="drawBackground"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\BoeingWatch\\source\\BoeingWatchView.mc" id="15" lineNum="207" pc="268437683" symbol="drawBackground"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\BoeingWatch\\source\\BoeingWatchView.mc" id="15" lineNum="208" pc="268437696" symbol="drawBackground"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\BoeingWatch\\source\\BoeingWatchView.mc" id="15" lineNum="210" pc="268437709" symbol="drawBackground"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\BoeingWatch\\source\\BoeingWatchView.mc" id="15" lineNum="211" pc="268437745" symbol="drawBackground"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\BoeingWatch\\source\\BoeingWatchView.mc" id="15" lineNum="213" pc="268437757" symbol="drawBackground"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\BoeingWatch\\source\\BoeingWatchView.mc" id="15" lineNum="214" pc="268437771" symbol="drawBackground"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\BoeingWatch\\source\\BoeingWatchView.mc" id="15" lineNum="216" pc="268437785" symbol="drawBackground"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\BoeingWatch\\source\\BoeingWatchView.mc" id="15" lineNum="217" pc="268437796" symbol="drawBackground"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\BoeingWatch\\source\\BoeingWatchView.mc" id="15" lineNum="218" pc="268437832" symbol="drawBackground"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\BoeingWatch\\source\\BoeingWatchView.mc" id="15" lineNum="219" pc="268437873" symbol="drawBackground"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\BoeingWatch\\source\\BoeingWatchView.mc" id="15" lineNum="222" pc="268437917" symbol="drawBackground"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\BoeingWatch\\source\\BoeingWatchView.mc" id="15" lineNum="223" pc="268438008" symbol="drawBackground"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\BoeingWatch\\source\\BoeingWatchView.mc" id="15" lineNum="225" pc="268438022" symbol="drawBackground"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\BoeingWatch\\source\\BoeingWatchView.mc" id="15" lineNum="226" pc="268438058" symbol="drawBackground"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\BoeingWatch\\source\\BoeingWatchView.mc" id="15" lineNum="228" pc="268438108" symbol="drawBackground"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\BoeingWatch\\source\\BoeingWatchView.mc" id="16" lineNum="232" pc="268438152" symbol="centerOnLeft"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\BoeingWatch\\source\\BoeingWatchView.mc" id="16" lineNum="233" pc="268438156" symbol="centerOnLeft"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\BoeingWatch\\source\\BoeingWatchView.mc" id="16" lineNum="234" pc="268438169" symbol="centerOnLeft"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\BoeingWatch\\source\\BoeingWatchView.mc" id="17" lineNum="237" pc="268438239" symbol="centerOnRight"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\BoeingWatch\\source\\BoeingWatchView.mc" id="17" lineNum="238" pc="268438243" symbol="centerOnRight"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\BoeingWatch\\source\\BoeingWatchView.mc" id="17" lineNum="239" pc="268438256" symbol="centerOnRight"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\BoeingWatch\\source\\BoeingWatchView.mc" id="18" lineNum="242" pc="268438332" symbol="drawPlane"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\BoeingWatch\\source\\BoeingWatchView.mc" id="18" lineNum="243" pc="268438336" symbol="drawPlane"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\BoeingWatch\\source\\BoeingWatchView.mc" id="18" lineNum="244" pc="268438336" symbol="drawPlane"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\BoeingWatch\\source\\BoeingWatchView.mc" id="18" lineNum="245" pc="268438349" symbol="drawPlane"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\BoeingWatch\\source\\BoeingWatchView.mc" id="18" lineNum="246" pc="268438369" symbol="drawPlane"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\BoeingWatch\\source\\BoeingWatchView.mc" id="18" lineNum="249" pc="268438434" symbol="drawPlane"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\BoeingWatch\\source\\BoeingWatchView.mc" id="18" lineNum="252" pc="268438496" symbol="drawPlane"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\BoeingWatch\\source\\BoeingWatchView.mc" id="18" lineNum="253" pc="268438560" symbol="drawPlane"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\BoeingWatch\\source\\BoeingWatchView.mc" id="19" lineNum="256" pc="268438575" symbol="drawLogo"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\BoeingWatch\\source\\BoeingWatchView.mc" id="19" lineNum="257" pc="268438579" symbol="drawLogo"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\BoeingWatch\\source\\BoeingWatchView.mc" id="19" lineNum="258" pc="268438579" symbol="drawLogo"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\BoeingWatch\\source\\BoeingWatchView.mc" id="19" lineNum="259" pc="268438592" symbol="drawLogo"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\BoeingWatch\\source\\BoeingWatchView.mc" id="19" lineNum="260" pc="268438612" symbol="drawLogo"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\BoeingWatch\\source\\BoeingWatchView.mc" id="19" lineNum="263" pc="268438677" symbol="drawLogo"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\BoeingWatch\\source\\BoeingWatchView.mc" id="19" lineNum="266" pc="268438739" symbol="drawLogo"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\BoeingWatch\\source\\BoeingWatchView.mc" id="19" lineNum="267" pc="268438803" symbol="drawLogo"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\BoeingWatch\\source\\BoeingWatchView.mc" id="20" lineNum="270" pc="268438818" symbol="drawBox"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\BoeingWatch\\source\\BoeingWatchView.mc" id="20" lineNum="271" pc="268438822" symbol="drawBox"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\BoeingWatch\\source\\BoeingWatchView.mc" id="20" lineNum="272" pc="268438835" symbol="drawBox"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\BoeingWatch\\source\\BoeingWatchView.mc" id="20" lineNum="273" pc="268438852" symbol="drawBox"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\BoeingWatch\\source\\BoeingWatchView.mc" id="20" lineNum="274" pc="268438881" symbol="drawBox"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\BoeingWatch\\source\\BoeingWatchView.mc" id="20" lineNum="275" pc="268438921" symbol="drawBox"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\BoeingWatch\\source\\BoeingWatchView.mc" id="20" lineNum="278" pc="268438942" symbol="drawBox"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\BoeingWatch\\source\\BoeingWatchView.mc" id="20" lineNum="279" pc="268438959" symbol="drawBox"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\BoeingWatch\\source\\BoeingWatchView.mc" id="20" lineNum="280" pc="268438988" symbol="drawBox"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\BoeingWatch\\source\\BoeingWatchView.mc" id="20" lineNum="281" pc="268439028" symbol="drawBox"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\BoeingWatch\\source\\BoeingWatchView.mc" id="20" lineNum="284" pc="268439049" symbol="drawBox"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\BoeingWatch\\source\\BoeingWatchView.mc" id="20" lineNum="285" pc="268439066" symbol="drawBox"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\BoeingWatch\\source\\BoeingWatchView.mc" id="20" lineNum="286" pc="268439095" symbol="drawBox"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\BoeingWatch\\source\\BoeingWatchView.mc" id="20" lineNum="287" pc="268439135" symbol="drawBox"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\BoeingWatch\\source\\BoeingWatchView.mc" id="20" lineNum="290" pc="268439156" symbol="drawBox"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\BoeingWatch\\source\\BoeingWatchView.mc" id="20" lineNum="291" pc="268439173" symbol="drawBox"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\BoeingWatch\\source\\BoeingWatchView.mc" id="20" lineNum="292" pc="268439202" symbol="drawBox"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\BoeingWatch\\source\\BoeingWatchView.mc" id="20" lineNum="293" pc="268439242" symbol="drawBox"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\BoeingWatch\\source\\BoeingWatchView.mc" id="20" lineNum="296" pc="268439263" symbol="drawBox"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\BoeingWatch\\source\\BoeingWatchView.mc" id="20" lineNum="297" pc="268439280" symbol="drawBox"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\BoeingWatch\\source\\BoeingWatchView.mc" id="20" lineNum="298" pc="268439309" symbol="drawBox"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\BoeingWatch\\source\\BoeingWatchView.mc" id="20" lineNum="299" pc="268439349" symbol="drawBox"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\BoeingWatch\\source\\BoeingWatchView.mc" id="20" lineNum="302" pc="268439370" symbol="drawBox"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\BoeingWatch\\source\\BoeingWatchView.mc" id="20" lineNum="303" pc="268439387" symbol="drawBox"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\BoeingWatch\\source\\BoeingWatchView.mc" id="20" lineNum="304" pc="268439416" symbol="drawBox"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\BoeingWatch\\source\\BoeingWatchView.mc" id="20" lineNum="305" pc="268439456" symbol="drawBox"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\BoeingWatch\\source\\BoeingWatchView.mc" id="21" lineNum="309" pc="268439478" symbol="drawTicks"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\BoeingWatch\\source\\BoeingWatchView.mc" id="21" lineNum="310" pc="268439482" symbol="drawTicks"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\BoeingWatch\\source\\BoeingWatchView.mc" id="21" lineNum="311" pc="268439514" symbol="drawTicks"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\BoeingWatch\\source\\BoeingWatchView.mc" id="21" lineNum="312" pc="268439524" symbol="drawTicks"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\BoeingWatch\\source\\BoeingWatchView.mc" id="21" lineNum="313" pc="268439543" symbol="drawTicks"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\BoeingWatch\\source\\BoeingWatchView.mc" id="21" lineNum="314" pc="268439558" symbol="drawTicks"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\BoeingWatch\\source\\BoeingWatchView.mc" id="21" lineNum="315" pc="268439582" symbol="drawTicks"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\BoeingWatch\\source\\BoeingWatchView.mc" id="21" lineNum="316" pc="268439629" symbol="drawTicks"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\BoeingWatch\\source\\BoeingWatchView.mc" id="21" lineNum="319" pc="268439676" symbol="drawTicks"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\BoeingWatch\\source\\BoeingWatchView.mc" id="21" lineNum="320" pc="268439720" symbol="drawTicks"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\BoeingWatch\\source\\BoeingWatchView.mc" id="21" lineNum="322" pc="268439764" symbol="drawTicks"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\BoeingWatch\\source\\BoeingWatchView.mc" id="22" lineNum="326" pc="268439798" symbol="drawHand"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\BoeingWatch\\source\\BoeingWatchView.mc" id="22" lineNum="327" pc="268439802" symbol="drawHand"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\BoeingWatch\\source\\BoeingWatchView.mc" id="22" lineNum="329" pc="268439853" symbol="drawHand"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\BoeingWatch\\source\\BoeingWatchView.mc" id="22" lineNum="331" pc="268439872" symbol="drawHand"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\BoeingWatch\\source\\BoeingWatchView.mc" id="22" lineNum="333" pc="268439886" symbol="drawHand"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\BoeingWatch\\source\\BoeingWatchView.mc" id="22" lineNum="334" pc="268439930" symbol="drawHand"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\BoeingWatch\\source\\BoeingWatchView.mc" id="22" lineNum="336" pc="268439974" symbol="drawHand"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\BoeingWatch\\source\\BoeingWatchView.mc" id="23" lineNum="340" pc="268439995" symbol="drawSecondHandClip"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\BoeingWatch\\source\\BoeingWatchView.mc" id="23" lineNum="341" pc="268439999" symbol="drawSecondHandClip"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\BoeingWatch\\source\\BoeingWatchView.mc" id="23" lineNum="343" pc="268440029" symbol="drawSecondHandClip"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\BoeingWatch\\source\\BoeingWatchView.mc" id="23" lineNum="344" pc="268440080" symbol="drawSecondHandClip"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\BoeingWatch\\source\\BoeingWatchView.mc" id="23" lineNum="345" pc="268440099" symbol="drawSecondHandClip"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\BoeingWatch\\source\\BoeingWatchView.mc" id="23" lineNum="347" pc="268440113" symbol="drawSecondHandClip"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\BoeingWatch\\source\\BoeingWatchView.mc" id="23" lineNum="348" pc="268440154" symbol="drawSecondHandClip"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\BoeingWatch\\source\\BoeingWatchView.mc" id="23" lineNum="350" pc="268440195" symbol="drawSecondHandClip"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\BoeingWatch\\source\\BoeingWatchView.mc" id="23" lineNum="351" pc="268440202" symbol="drawSecondHandClip"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\BoeingWatch\\source\\BoeingWatchView.mc" id="23" lineNum="352" pc="268440209" symbol="drawSecondHandClip"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\BoeingWatch\\source\\BoeingWatchView.mc" id="23" lineNum="353" pc="268440222" symbol="drawSecondHandClip"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\BoeingWatch\\source\\BoeingWatchView.mc" id="23" lineNum="354" pc="268440235" symbol="drawSecondHandClip"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\BoeingWatch\\source\\BoeingWatchView.mc" id="23" lineNum="355" pc="268440251" symbol="drawSecondHandClip"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\BoeingWatch\\source\\BoeingWatchView.mc" id="23" lineNum="356" pc="268440267" symbol="drawSecondHandClip"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\BoeingWatch\\source\\BoeingWatchView.mc" id="23" lineNum="357" pc="268440280" symbol="drawSecondHandClip"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\BoeingWatch\\source\\BoeingWatchView.mc" id="23" lineNum="359" pc="268440293" symbol="drawSecondHandClip"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\BoeingWatch\\source\\BoeingWatchView.mc" id="23" lineNum="360" pc="268440318" symbol="drawSecondHandClip"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\BoeingWatch\\source\\BoeingWatchView.mc" id="23" lineNum="363" pc="268440362" symbol="drawSecondHandClip"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\BoeingWatch\\source\\BoeingWatchView.mc" id="23" lineNum="364" pc="268440387" symbol="drawSecondHandClip"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\BoeingWatch\\source\\BoeingWatchView.mc" id="23" lineNum="367" pc="268440434" symbol="drawSecondHandClip"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\BoeingWatch\\source\\BoeingWatchView.mc" id="23" lineNum="368" pc="268440459" symbol="drawSecondHandClip"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\BoeingWatch\\source\\BoeingWatchView.mc" id="23" lineNum="371" pc="268440503" symbol="drawSecondHandClip"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\BoeingWatch\\source\\BoeingWatchView.mc" id="23" lineNum="372" pc="268440528" symbol="drawSecondHandClip"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\BoeingWatch\\source\\BoeingWatchView.mc" id="23" lineNum="376" pc="268440569" symbol="drawSecondHandClip"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\BoeingWatch\\source\\BoeingWatchView.mc" id="23" lineNum="377" pc="268440605" symbol="drawSecondHandClip"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\BoeingWatch\\source\\BoeingWatchView.mc" id="24" lineNum="382" pc="268440626" symbol="drawHandOffset"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\BoeingWatch\\source\\BoeingWatchView.mc" id="24" lineNum="383" pc="268440630" symbol="drawHandOffset"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\BoeingWatch\\source\\BoeingWatchView.mc" id="24" lineNum="384" pc="268440681" symbol="drawHandOffset"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\BoeingWatch\\source\\BoeingWatchView.mc" id="24" lineNum="386" pc="268440694" symbol="drawHandOffset"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\BoeingWatch\\source\\BoeingWatchView.mc" id="24" lineNum="388" pc="268440721" symbol="drawHandOffset"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\BoeingWatch\\source\\BoeingWatchView.mc" id="24" lineNum="390" pc="268440740" symbol="drawHandOffset"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\BoeingWatch\\source\\BoeingWatchView.mc" id="24" lineNum="392" pc="268440754" symbol="drawHandOffset"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\BoeingWatch\\source\\BoeingWatchView.mc" id="24" lineNum="393" pc="268440798" symbol="drawHandOffset"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\BoeingWatch\\source\\BoeingWatchView.mc" id="24" lineNum="395" pc="268440842" symbol="drawHandOffset"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\BoeingWatch\\source\\BoeingWatchView.mc" id="25" lineNum="398" pc="268440863" symbol="drawDate"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\BoeingWatch\\source\\BoeingWatchView.mc" id="25" lineNum="399" pc="268440867" symbol="drawDate"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\BoeingWatch\\source\\BoeingWatchView.mc" id="25" lineNum="400" pc="268440880" symbol="drawDate"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\BoeingWatch\\source\\BoeingWatchView.mc" id="25" lineNum="401" pc="268440893" symbol="drawDate"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\BoeingWatch\\source\\BoeingWatchView.mc" id="25" lineNum="402" pc="268440941" symbol="drawDate"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\BoeingWatch\\source\\BoeingWatchView.mc" id="25" lineNum="404" pc="268440951" symbol="drawDate"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\BoeingWatch\\source\\BoeingWatchView.mc" id="25" lineNum="405" pc="268440999" symbol="drawDate"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\BoeingWatch\\source\\BoeingWatchView.mc" id="26" lineNum="408" pc="268441084" symbol="drawTimeBox"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\BoeingWatch\\source\\BoeingWatchView.mc" id="26" lineNum="409" pc="268441088" symbol="drawTimeBox"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\BoeingWatch\\source\\BoeingWatchView.mc" id="26" lineNum="410" pc="268441101" symbol="drawTimeBox"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\BoeingWatch\\source\\BoeingWatchView.mc" id="26" lineNum="411" pc="268441149" symbol="drawTimeBox"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\BoeingWatch\\source\\BoeingWatchView.mc" id="26" lineNum="412" pc="268441166" symbol="drawTimeBox"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\BoeingWatch\\source\\BoeingWatchView.mc" id="26" lineNum="413" pc="268441199" symbol="drawTimeBox"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\BoeingWatch\\source\\BoeingWatchView.mc" id="26" lineNum="415" pc="268441203" symbol="drawTimeBox"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\BoeingWatch\\source\\BoeingWatchView.mc" id="26" lineNum="416" pc="268441229" symbol="drawTimeBox"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\BoeingWatch\\source\\BoeingWatchView.mc" id="26" lineNum="417" pc="268441239" symbol="drawTimeBox"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\BoeingWatch\\source\\BoeingWatchView.mc" id="26" lineNum="420" pc="268441246" symbol="drawTimeBox"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\BoeingWatch\\source\\BoeingWatchView.mc" id="27" lineNum="423" pc="268441324" symbol="drawStepBox"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\BoeingWatch\\source\\BoeingWatchView.mc" id="27" lineNum="424" pc="268441328" symbol="drawStepBox"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\BoeingWatch\\source\\BoeingWatchView.mc" id="27" lineNum="425" pc="268441341" symbol="drawStepBox"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\BoeingWatch\\source\\BoeingWatchView.mc" id="27" lineNum="426" pc="268441366" symbol="drawStepBox"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\BoeingWatch\\source\\BoeingWatchView.mc" id="27" lineNum="427" pc="268441366" symbol="drawStepBox"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\BoeingWatch\\source\\BoeingWatchView.mc" id="27" lineNum="428" pc="268441377" symbol="drawStepBox"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\BoeingWatch\\source\\BoeingWatchView.mc" id="27" lineNum="430" pc="268441387" symbol="drawStepBox"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\BoeingWatch\\source\\BoeingWatchView.mc" id="27" lineNum="434" pc="268441426" symbol="drawStepBox"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\BoeingWatch\\source\\BoeingWatchView.mc" id="28" lineNum="437" pc="268441475" symbol="drawFloorsBox"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\BoeingWatch\\source\\BoeingWatchView.mc" id="28" lineNum="438" pc="268441479" symbol="drawFloorsBox"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\BoeingWatch\\source\\BoeingWatchView.mc" id="28" lineNum="439" pc="268441492" symbol="drawFloorsBox"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\BoeingWatch\\source\\BoeingWatchView.mc" id="28" lineNum="440" pc="268441492" symbol="drawFloorsBox"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\BoeingWatch\\source\\BoeingWatchView.mc" id="28" lineNum="442" pc="268441517" symbol="drawFloorsBox"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\BoeingWatch\\source\\BoeingWatchView.mc" id="28" lineNum="444" pc="268441517" symbol="drawFloorsBox"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\BoeingWatch\\source\\BoeingWatchView.mc" id="28" lineNum="445" pc="268441528" symbol="drawFloorsBox"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\BoeingWatch\\source\\BoeingWatchView.mc" id="28" lineNum="447" pc="268441538" symbol="drawFloorsBox"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\BoeingWatch\\source\\BoeingWatchView.mc" id="28" lineNum="452" pc="268441551" symbol="drawFloorsBox"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\BoeingWatch\\source\\BoeingWatchView.mc" id="29" lineNum="455" pc="268441600" symbol="drawCaloriesBox"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\BoeingWatch\\source\\BoeingWatchView.mc" id="29" lineNum="456" pc="268441604" symbol="drawCaloriesBox"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\BoeingWatch\\source\\BoeingWatchView.mc" id="29" lineNum="457" pc="268441617" symbol="drawCaloriesBox"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\BoeingWatch\\source\\BoeingWatchView.mc" id="29" lineNum="458" pc="268441617" symbol="drawCaloriesBox"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\BoeingWatch\\source\\BoeingWatchView.mc" id="29" lineNum="460" pc="268441642" symbol="drawCaloriesBox"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\BoeingWatch\\source\\BoeingWatchView.mc" id="29" lineNum="461" pc="268441642" symbol="drawCaloriesBox"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\BoeingWatch\\source\\BoeingWatchView.mc" id="29" lineNum="462" pc="268441653" symbol="drawCaloriesBox"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\BoeingWatch\\source\\BoeingWatchView.mc" id="29" lineNum="464" pc="268441663" symbol="drawCaloriesBox"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\BoeingWatch\\source\\BoeingWatchView.mc" id="29" lineNum="469" pc="268441702" symbol="drawCaloriesBox"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\BoeingWatch\\source\\BoeingWatchView.mc" id="30" lineNum="472" pc="268441751" symbol="drawDistanceBox"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\BoeingWatch\\source\\BoeingWatchView.mc" id="30" lineNum="473" pc="268441755" symbol="drawDistanceBox"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\BoeingWatch\\source\\BoeingWatchView.mc" id="30" lineNum="474" pc="268441768" symbol="drawDistanceBox"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\BoeingWatch\\source\\BoeingWatchView.mc" id="30" lineNum="475" pc="268441768" symbol="drawDistanceBox"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\BoeingWatch\\source\\BoeingWatchView.mc" id="30" lineNum="476" pc="268441799" symbol="drawDistanceBox"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\BoeingWatch\\source\\BoeingWatchView.mc" id="30" lineNum="477" pc="268441817" symbol="drawDistanceBox"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\BoeingWatch\\source\\BoeingWatchView.mc" id="30" lineNum="478" pc="268441829" symbol="drawDistanceBox"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\BoeingWatch\\source\\BoeingWatchView.mc" id="30" lineNum="480" pc="268441842" symbol="drawDistanceBox"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\BoeingWatch\\source\\BoeingWatchView.mc" id="30" lineNum="481" pc="268441842" symbol="drawDistanceBox"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\BoeingWatch\\source\\BoeingWatchView.mc" id="30" lineNum="482" pc="268441853" symbol="drawDistanceBox"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\BoeingWatch\\source\\BoeingWatchView.mc" id="30" lineNum="484" pc="268441863" symbol="drawDistanceBox"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\BoeingWatch\\source\\BoeingWatchView.mc" id="30" lineNum="487" pc="268441881" symbol="drawDistanceBox"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\BoeingWatch\\source\\BoeingWatchView.mc" id="31" lineNum="490" pc="268441930" symbol="drawBatteryBox"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\BoeingWatch\\source\\BoeingWatchView.mc" id="31" lineNum="491" pc="268441934" symbol="drawBatteryBox"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\BoeingWatch\\source\\BoeingWatchView.mc" id="31" lineNum="492" pc="268441947" symbol="drawBatteryBox"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\BoeingWatch\\source\\BoeingWatchView.mc" id="31" lineNum="494" pc="268441970" symbol="drawBatteryBox"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\BoeingWatch\\source\\BoeingWatchView.mc" id="31" lineNum="496" pc="268441988" symbol="drawBatteryBox"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\BoeingWatch\\source\\BoeingWatchView.mc" id="32" lineNum="499" pc="268442037" symbol="drawTextBox"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\BoeingWatch\\source\\BoeingWatchView.mc" id="32" lineNum="500" pc="268442041" symbol="drawTextBox"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\BoeingWatch\\source\\BoeingWatchView.mc" id="32" lineNum="501" pc="268442058" symbol="drawTextBox"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\BoeingWatch\\source\\BoeingWatchView.mc" id="32" lineNum="502" pc="268442094" symbol="drawTextBox"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\BoeingWatch\\source\\BoeingWatchView.mc" id="32" lineNum="503" pc="268442105" symbol="drawTextBox"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\BoeingWatch\\source\\BoeingWatchView.mc" id="32" lineNum="506" pc="268442136" symbol="drawTextBox"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\BoeingWatch\\source\\BoeingWatchView.mc" id="32" lineNum="507" pc="268442172" symbol="drawTextBox"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\BoeingWatch\\source\\BoeingWatchView.mc" id="32" lineNum="516" pc="268442307" symbol="drawTextBox"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\BoeingWatch\\source\\BoeingWatchView.mc" id="33" lineNum="521" pc="268442322" symbol="drawScreenSaver"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\BoeingWatch\\source\\BoeingWatchView.mc" id="33" lineNum="522" pc="268442326" symbol="drawScreenSaver"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\BoeingWatch\\source\\BoeingWatchView.mc" id="33" lineNum="523" pc="268442343" symbol="drawScreenSaver"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\BoeingWatch\\source\\BoeingWatchView.mc" id="33" lineNum="524" pc="268442382" symbol="drawScreenSaver"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\BoeingWatch\\source\\BoeingWatchView.mc" id="33" lineNum="525" pc="268442414" symbol="drawScreenSaver"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\BoeingWatch\\source\\BoeingWatchView.mc" id="33" lineNum="528" pc="268442462" symbol="drawScreenSaver"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\BoeingWatch\\source\\BoeingWatchView.mc" id="33" lineNum="529" pc="268442469" symbol="drawScreenSaver"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\BoeingWatch\\source\\BoeingWatchView.mc" id="33" lineNum="530" pc="268442512" symbol="drawScreenSaver"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\BoeingWatch\\source\\BoeingWatchView.mc" id="33" lineNum="531" pc="268442555" symbol="drawScreenSaver"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\BoeingWatch\\source\\BoeingWatchView.mc" id="33" lineNum="532" pc="268442583" symbol="drawScreenSaver"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\BoeingWatch\\source\\BoeingWatchView.mc" id="33" lineNum="533" pc="268442611" symbol="drawScreenSaver"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\BoeingWatch\\source\\BoeingWatchView.mc" id="34" lineNum="539" pc="268442660" symbol="onShow"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\BoeingWatch\\source\\BoeingWatchView.mc" id="35" lineNum="546" pc="268442665" symbol="onHide"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\BoeingWatch\\source\\BoeingWatchView.mc" id="36" lineNum="550" pc="268442670" symbol="onExitSleep"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\BoeingWatch\\source\\BoeingWatchView.mc" id="36" lineNum="551" pc="268442674" symbol="onExitSleep"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\BoeingWatch\\source\\BoeingWatchView.mc" id="37" lineNum="555" pc="268442685" symbol="onEnterSleep"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\BoeingWatch\\source\\BoeingWatchView.mc" id="37" lineNum="556" pc="268442689" symbol="onEnterSleep"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\BoeingWatch\\source\\BoeingWatchView.mc" id="39" lineNum="567" pc="268442700" symbol="onPowerBudgetExceeded"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\BoeingWatch\\source\\BoeingWatchView.mc" id="39" lineNum="568" pc="268442704" symbol="onPowerBudgetExceeded"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\BoeingWatch\\source\\BoeingWatchView.mc" id="39" lineNum="569" pc="268442734" symbol="onPowerBudgetExceeded"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\BoeingWatch\\source\\BoeingWatchGoalView.mc" id="41" lineNum="6" pc="268442768" symbol="initialize"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\BoeingWatch\\source\\BoeingWatchGoalView.mc" id="42" lineNum="10" pc="268442773" symbol="onLayout"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\BoeingWatch\\source\\BoeingWatchGoalView.mc" id="42" lineNum="11" pc="268442777" symbol="onLayout"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\BoeingWatch\\source\\BoeingWatchGoalView.mc" id="43" lineNum="14" pc="268442790" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\BoeingWatch\\source\\BoeingWatchBackground.mc" id="45" lineNum="7" pc="268442795" symbol="initialize"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\BoeingWatch\\source\\BoeingWatchBackground.mc" id="45" lineNum="8" pc="268442799" symbol="initialize"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\BoeingWatch\\source\\BoeingWatchBackground.mc" id="45" lineNum="12" pc="268442820" symbol="initialize"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\BoeingWatch\\source\\BoeingWatchBackground.mc" id="46" lineNum="15" pc="268442841" symbol="draw"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\BoeingWatch\\source\\BoeingWatchBackground.mc" id="46" lineNum="17" pc="268442845" symbol="draw"/>
+        <entry filename="C:\\Users\\winis\\OneDrive\\Programming\\Eclipse\\Main\\BoeingWatch\\source\\BoeingWatchBackground.mc" id="46" lineNum="18" pc="268442898" symbol="draw"/>
+        <entry filename="Rez" id="52" lineNum="21" pc="268442911" symbol="WatchFace"/>
+        <entry filename="Rez" id="52" lineNum="24" pc="268442923" symbol="WatchFace"/>
+        <entry filename="Rez" id="52" lineNum="25" pc="268442947" symbol="WatchFace"/>
+        <entry filename="Rez" id="52" lineNum="27" pc="268443128" symbol="WatchFace"/>
+    </pcToLineNum>
+    <symbolTable>
+        <entry id="8388639" module="true" symbol="Graphics"/>
+        <entry field="true" id="42" symbol="isDistanceMetric"/>
+        <entry id="8389346" symbol="text"/>
+        <entry field="true" id="62" symbol="relative_sec_hand_stroke"/>
+        <entry field="true" id="39" symbol="lowPower"/>
+        <entry id="11" object="true" symbol="AnalogDelegate"/>
+        <entry id="86" method="true" symbol="drawDate"/>
+        <entry field="true" id="21" symbol="BigFont"/>
+        <entry field="true" id="16" symbol="LargeLogo"/>
+        <entry id="90" method="true" symbol="drawCaloriesBox"/>
+        <entry id="8389683" method="true" symbol="onSettingsChanged"/>
+        <entry field="true" id="74" symbol="battery_size"/>
+        <entry field="true" id="69" symbol="box_padding"/>
+        <entry id="8390098" method="true" symbol="onPowerBudgetExceeded"/>
+        <entry field="true" id="40" symbol="offScreenBuffer"/>
+        <entry field="true" id="54" symbol="relative_min_tick_length"/>
+        <entry id="80" method="true" symbol="drawLogo"/>
+        <entry field="true" id="28" symbol="MF_2"/>
+        <entry field="true" id="35" symbol="MF_1"/>
+        <entry field="true" id="33" symbol="MF_0"/>
+        <entry field="true" id="30" symbol="RBD_6"/>
+        <entry field="true" id="29" symbol="RBD_5"/>
+        <entry field="true" id="32" symbol="RBD_4"/>
+        <entry field="true" id="31" symbol="RBD_3"/>
+        <entry field="true" id="25" symbol="RBD_2"/>
+        <entry field="true" id="24" symbol="RBD_1"/>
+        <entry field="true" id="27" symbol="RBD_0"/>
+        <entry field="true" id="26" symbol="MilitaryFormatTitle"/>
+        <entry id="8388924" module="true" symbol="Gregorian"/>
+        <entry field="true" id="22" symbol="AlwaysOnTitle"/>
+        <entry field="true" id="8388611" module="true" symbol="Toybox"/>
+        <entry field="true" id="66" symbol="relative_plane_y"/>
+        <entry id="81" method="true" symbol="drawBox"/>
+        <entry id="75" method="true" symbol="updateValues"/>
+        <entry id="89" method="true" symbol="drawFloorsBox"/>
+        <entry field="true" id="34" symbol="AppName"/>
+        <entry id="8388772" module="true" object="true" symbol="Fonts"/>
+        <entry id="8389345" symbol="rezId"/>
+        <entry field="true" id="44" symbol="partialUpdates"/>
+        <entry id="91" method="true" symbol="drawDistanceBox"/>
+        <entry field="true" id="51" symbol="showBoxes"/>
+        <entry field="true" id="56" symbol="relative_min_tick_stroke"/>
+        <entry id="8388648" module="true" symbol="WatchUi"/>
+        <entry id="8390097" method="true" symbol="onPartialUpdate"/>
+        <entry id="87" method="true" symbol="drawTimeBox"/>
+        <entry field="true" id="48" symbol="lowMemDevice"/>
+        <entry field="true" id="38" symbol="SecondHandColorTitle"/>
+        <entry id="8389124" method="true" symbol="onUpdate"/>
+        <entry id="8389375" method="true" object="true" symbol="WatchFace"/>
+        <entry field="true" id="8389065" symbol="locY"/>
+        <entry field="true" id="8389064" symbol="locX"/>
+        <entry id="12" object="true" symbol="BoeingWatchGoalView"/>
+        <entry field="true" id="64" symbol="relative_padding2"/>
+        <entry field="true" id="18" symbol="LargePlane"/>
+        <entry id="8388771" module="true" object="true" symbol="Drawables"/>
+        <entry id="8389348" symbol="font"/>
+        <entry field="true" id="8389067" symbol="height"/>
+        <entry id="14" module="true" symbol="Menus"/>
+        <entry field="true" id="8389066" symbol="width"/>
+        <entry field="true" id="57" symbol="relative_hour_hand_length"/>
+        <entry field="true" id="65" symbol="relative_center_radius"/>
+        <entry field="true" id="72" symbol="time_size"/>
+        <entry id="94" method="true" symbol="drawScreenSaver"/>
+        <entry id="8389122" method="true" symbol="onLayout"/>
+        <entry field="true" id="43" symbol="clip"/>
+        <entry field="true" id="71" symbol="date_size"/>
+        <entry id="8389376" method="true" symbol="onEnterSleep"/>
+        <entry field="true" id="8389063" symbol="identifier"/>
+        <entry id="8389349" symbol="justification"/>
+        <entry field="true" id="37" symbol="ShowTicksTitle"/>
+        <entry field="true" id="17" symbol="Plane"/>
+        <entry field="true" id="15" symbol="Logo"/>
+        <entry field="true" id="41" symbol="is24"/>
+        <entry field="true" id="68" symbol="text_padding"/>
+        <entry id="10" object="true" symbol="BoeingWatchView"/>
+        <entry field="true" id="45" symbol="showTicks"/>
+        <entry field="true" id="67" symbol="relative_logo_y"/>
+        <entry id="76" method="true" symbol="drawBackground"/>
+        <entry field="true" id="60" symbol="relative_hour_hand_stroke"/>
+        <entry field="true" id="58" symbol="relative_min_hand_length"/>
+        <entry id="8389377" method="true" symbol="onExitSleep"/>
+        <entry id="8388644" module="true" symbol="System"/>
+        <entry id="8389916" method="true" symbol="getGoalView"/>
+        <entry id="85" method="true" symbol="drawHandOffset"/>
+        <entry id="77" method="true" symbol="centerOnLeft"/>
+        <entry id="8388769" module="true" object="true" symbol="Rez"/>
+        <entry field="true" id="36" symbol="ShowBoxesTitle"/>
+        <entry field="true" id="23" symbol="RightBoxDipslayTitle"/>
+        <entry id="8388640" module="true" symbol="Lang"/>
+        <entry id="93" method="true" symbol="drawTextBox"/>
+        <entry id="8390088" module="true" object="true" symbol="JsonData"/>
+        <entry id="83" method="true" symbol="drawHand"/>
+        <entry field="true" id="73" symbol="floors_size"/>
+        <entry field="true" id="53" symbol="relative_hour_tick_length"/>
+        <entry id="8389068" method="true" symbol="draw"/>
+        <entry field="true" id="19" symbol="LauncherIcon"/>
+        <entry id="88" method="true" symbol="drawStepBox"/>
+        <entry id="8389123" method="true" symbol="onShow"/>
+        <entry field="true" id="70" symbol="dow_size"/>
+        <entry id="82" method="true" symbol="drawTicks"/>
+        <entry field="true" id="8391194" symbol="requiresBurnInProtection"/>
+        <entry id="8388770" module="true" object="true" symbol="Strings"/>
+        <entry id="8390146" module="true" object="true" symbol="Background"/>
+        <entry id="8388702" method="true" symbol="initialize"/>
+        <entry id="8389279" method="true" symbol="onStart"/>
+        <entry field="true" id="61" symbol="relative_min_hand_stroke"/>
+        <entry id="78" method="true" symbol="centerOnRight"/>
+        <entry field="true" id="50" symbol="version"/>
+        <entry field="true" id="49" symbol="RBD"/>
+        <entry field="true" id="47" symbol="needsProtection"/>
+        <entry id="8389280" method="true" symbol="getInitialView"/>
+        <entry id="8389281" method="true" symbol="onStop"/>
+        <entry id="79" method="true" symbol="drawPlane"/>
+        <entry field="true" id="59" symbol="relative_sec_hand_length"/>
+        <entry id="8389347" symbol="color"/>
+        <entry field="true" id="52" symbol="relative_tick_stroke"/>
+        <entry field="true" id="55" symbol="relative_hour_tick_stroke"/>
+        <entry id="84" method="true" symbol="drawSecondHandClip"/>
+        <entry id="13" module="true" symbol="Layouts"/>
+        <entry id="9" object="true" symbol="BoeingWatchApp"/>
+        <entry field="true" id="46" symbol="mainFont"/>
+        <entry id="92" method="true" symbol="drawBatteryBox"/>
+        <entry field="true" id="20" symbol="MainFont"/>
+        <entry id="8389125" method="true" symbol="onHide"/>
+        <entry id="8388635" module="true" symbol="Application"/>
+        <entry field="true" id="63" symbol="relative_padding"/>
+    </symbolTable>
+    <localVars>
+        <entry endPc="268435484" name="state" stackId="1" startPc="268435479"/>
+        <entry endPc="268435489" name="state" stackId="1" startPc="268435484"/>
+        <entry endPc="268435589" name="goal" stackId="1" startPc="268435582"/>
+        <entry endPc="268436277" name="dc" stackId="1" startPc="268435612"/>
+        <entry endPc="268436897" name="hours" stackId="3" startPc="268436383"/>
+        <entry endPc="268436897" name="minutes" stackId="4" startPc="268436383"/>
+        <entry endPc="268436897" name="width" stackId="6" startPc="268436383"/>
+        <entry endPc="268436897" name="clockTime" stackId="2" startPc="268436383"/>
+        <entry endPc="268436897" name="seconds" stackId="5" startPc="268436383"/>
+        <entry endPc="268436898" name="dc" stackId="1" startPc="268436277"/>
+        <entry endPc="268437148" name="hours" stackId="3" startPc="268436913"/>
+        <entry endPc="268437148" name="minutes" stackId="4" startPc="268436913"/>
+        <entry endPc="268437148" name="width" stackId="6" startPc="268436913"/>
+        <entry endPc="268437148" name="clockTime" stackId="2" startPc="268436913"/>
+        <entry endPc="268437148" name="seconds" stackId="5" startPc="268436913"/>
+        <entry endPc="268437152" name="dc" stackId="1" startPc="268436898"/>
+        <entry endPc="268437631" name="distanceMetric" stackId="2" startPc="268437156"/>
+        <entry endPc="268437631" name="UMF" stackId="1" startPc="268437156"/>
+        <entry endPc="268438151" name="height" stackId="7" startPc="268437636"/>
+        <entry endPc="268438151" name="hours" stackId="3" startPc="268437636"/>
+        <entry endPc="268438151" name="minutes" stackId="4" startPc="268437636"/>
+        <entry endPc="268438151" name="width" stackId="6" startPc="268437636"/>
+        <entry endPc="268438151" name="clockTime" stackId="2" startPc="268437636"/>
+        <entry endPc="268438151" name="seconds" stackId="5" startPc="268437636"/>
+        <entry endPc="268438152" name="dc" stackId="1" startPc="268437632"/>
+        <entry endPc="268438238" name="width" stackId="3" startPc="268438156"/>
+        <entry endPc="268438239" name="dc" stackId="1" startPc="268438152"/>
+        <entry endPc="268438239" name="size" stackId="2" startPc="268438152"/>
+        <entry endPc="268438331" name="width" stackId="3" startPc="268438243"/>
+        <entry endPc="268438332" name="dc" stackId="1" startPc="268438239"/>
+        <entry endPc="268438332" name="size" stackId="2" startPc="268438239"/>
+        <entry endPc="268438574" name="plane" stackId="2" startPc="268438336"/>
+        <entry endPc="268438574" name="width" stackId="3" startPc="268438336"/>
+        <entry endPc="268438575" name="dc" stackId="1" startPc="268438332"/>
+        <entry endPc="268438817" name="width" stackId="3" startPc="268438579"/>
+        <entry endPc="268438817" name="logo" stackId="2" startPc="268438579"/>
+        <entry endPc="268438818" name="dc" stackId="1" startPc="268438575"/>
+        <entry endPc="268438939" name="x" stackId="3" startPc="268438852"/>
+        <entry endPc="268438939" name="y" stackId="4" startPc="268438852"/>
+        <entry endPc="268439046" name="x" stackId="5" startPc="268438959"/>
+        <entry endPc="268439046" name="y" stackId="6" startPc="268438959"/>
+        <entry endPc="268439153" name="x" stackId="7" startPc="268439066"/>
+        <entry endPc="268439153" name="y" stackId="8" startPc="268439066"/>
+        <entry endPc="268439260" name="x" stackId="9" startPc="268439173"/>
+        <entry endPc="268439260" name="y" stackId="10" startPc="268439173"/>
+        <entry endPc="268439367" name="x" stackId="11" startPc="268439280"/>
+        <entry endPc="268439367" name="y" stackId="12" startPc="268439280"/>
+        <entry endPc="268439474" name="x" stackId="13" startPc="268439387"/>
+        <entry endPc="268439474" name="y" stackId="14" startPc="268439387"/>
+        <entry endPc="268439477" name="width" stackId="2" startPc="268438822"/>
+        <entry endPc="268439478" name="dc" stackId="1" startPc="268438818"/>
+        <entry endPc="268439784" name="x2" stackId="11" startPc="268439558"/>
+        <entry endPc="268439784" name="x1" stackId="9" startPc="268439558"/>
+        <entry endPc="268439784" name="y2" stackId="12" startPc="268439558"/>
+        <entry endPc="268439784" name="y1" stackId="10" startPc="268439558"/>
+        <entry endPc="268439784" name="angle" stackId="8" startPc="268439558"/>
+        <entry endPc="268439797" name="i" stackId="7" startPc="268439558"/>
+        <entry endPc="268439797" name="center" stackId="6" startPc="268439482"/>
+        <entry endPc="268439797" name="tickAngle" stackId="5" startPc="268439482"/>
+        <entry endPc="268439798" name="dc" stackId="1" startPc="268439478"/>
+        <entry endPc="268439798" name="num" stackId="4" startPc="268439478"/>
+        <entry endPc="268439798" name="length" stackId="2" startPc="268439478"/>
+        <entry endPc="268439798" name="stroke" stackId="3" startPc="268439478"/>
+        <entry endPc="268439994" name="x" stackId="8" startPc="268439802"/>
+        <entry endPc="268439994" name="center" stackId="7" startPc="268439802"/>
+        <entry endPc="268439994" name="angle" stackId="6" startPc="268439802"/>
+        <entry endPc="268439994" name="y" stackId="9" startPc="268439802"/>
+        <entry endPc="268439995" name="dc" stackId="1" startPc="268439798"/>
+        <entry endPc="268439995" name="num" stackId="2" startPc="268439798"/>
+        <entry endPc="268439995" name="length" stackId="4" startPc="268439798"/>
+        <entry endPc="268439995" name="stroke" stackId="5" startPc="268439798"/>
+        <entry endPc="268439995" name="time" stackId="3" startPc="268439798"/>
+        <entry endPc="268440625" name="padding2" stackId="17" startPc="268439999"/>
+        <entry endPc="268440625" name="center" stackId="7" startPc="268439999"/>
+        <entry endPc="268440625" name="width2" stackId="14" startPc="268439999"/>
+        <entry endPc="268440625" name="width" stackId="12" startPc="268439999"/>
+        <entry endPc="268440625" name="angle" stackId="6" startPc="268439999"/>
+        <entry endPc="268440625" name="height2" stackId="15" startPc="268439999"/>
+        <entry endPc="268440625" name="sinval" stackId="9" startPc="268439999"/>
+        <entry endPc="268440625" name="y" stackId="11" startPc="268439999"/>
+        <entry endPc="268440625" name="padding" stackId="16" startPc="268439999"/>
+        <entry endPc="268440625" name="x" stackId="10" startPc="268439999"/>
+        <entry endPc="268440625" name="height" stackId="13" startPc="268439999"/>
+        <entry endPc="268440625" name="cosval" stackId="8" startPc="268439999"/>
+        <entry endPc="268440626" name="dc" stackId="1" startPc="268439995"/>
+        <entry endPc="268440626" name="num" stackId="2" startPc="268439995"/>
+        <entry endPc="268440626" name="length" stackId="4" startPc="268439995"/>
+        <entry endPc="268440626" name="stroke" stackId="5" startPc="268439995"/>
+        <entry endPc="268440626" name="time" stackId="3" startPc="268439995"/>
+        <entry endPc="268440862" name="x" stackId="11" startPc="268440630"/>
+        <entry endPc="268440862" name="center" stackId="10" startPc="268440630"/>
+        <entry endPc="268440862" name="section" stackId="9" startPc="268440630"/>
+        <entry endPc="268440862" name="angle" stackId="8" startPc="268440630"/>
+        <entry endPc="268440862" name="y" stackId="12" startPc="268440630"/>
+        <entry endPc="268440863" name="offsetNum" stackId="3" startPc="268440626"/>
+        <entry endPc="268440863" name="dc" stackId="1" startPc="268440626"/>
+        <entry endPc="268440863" name="num" stackId="2" startPc="268440626"/>
+        <entry endPc="268440863" name="length" stackId="6" startPc="268440626"/>
+        <entry endPc="268440863" name="offsetTime" stackId="5" startPc="268440626"/>
+        <entry endPc="268440863" name="stroke" stackId="7" startPc="268440626"/>
+        <entry endPc="268440863" name="time" stackId="4" startPc="268440626"/>
+        <entry endPc="268441083" name="height" stackId="5" startPc="268440867"/>
+        <entry endPc="268441083" name="width" stackId="4" startPc="268440867"/>
+        <entry endPc="268441083" name="dowString" stackId="7" startPc="268440867"/>
+        <entry endPc="268441083" name="info" stackId="6" startPc="268440867"/>
+        <entry endPc="268441084" name="x" stackId="2" startPc="268440863"/>
+        <entry endPc="268441084" name="dc" stackId="1" startPc="268440863"/>
+        <entry endPc="268441084" name="y" stackId="3" startPc="268440863"/>
+        <entry endPc="268441323" name="hours" stackId="7" startPc="268441088"/>
+        <entry endPc="268441323" name="hourString" stackId="8" startPc="268441088"/>
+        <entry endPc="268441323" name="width" stackId="4" startPc="268441088"/>
+        <entry endPc="268441323" name="clockTime" stackId="6" startPc="268441088"/>
+        <entry endPc="268441323" name="info" stackId="5" startPc="268441088"/>
+        <entry endPc="268441324" name="x" stackId="2" startPc="268441084"/>
+        <entry endPc="268441324" name="dc" stackId="1" startPc="268441084"/>
+        <entry endPc="268441324" name="y" stackId="3" startPc="268441084"/>
+        <entry endPc="268441474" name="steps" stackId="5" startPc="268441328"/>
+        <entry endPc="268441474" name="width" stackId="4" startPc="268441328"/>
+        <entry endPc="268441474" name="stepString" stackId="6" startPc="268441328"/>
+        <entry endPc="268441475" name="x" stackId="2" startPc="268441324"/>
+        <entry endPc="268441475" name="dc" stackId="1" startPc="268441324"/>
+        <entry endPc="268441475" name="y" stackId="3" startPc="268441324"/>
+        <entry endPc="268441599" name="floors" stackId="5" startPc="268441479"/>
+        <entry endPc="268441599" name="width" stackId="4" startPc="268441479"/>
+        <entry endPc="268441599" name="floorString" stackId="6" startPc="268441479"/>
+        <entry endPc="268441600" name="x" stackId="2" startPc="268441475"/>
+        <entry endPc="268441600" name="dc" stackId="1" startPc="268441475"/>
+        <entry endPc="268441600" name="y" stackId="3" startPc="268441475"/>
+        <entry endPc="268441750" name="calorieString" stackId="6" startPc="268441604"/>
+        <entry endPc="268441750" name="width" stackId="4" startPc="268441604"/>
+        <entry endPc="268441750" name="calories" stackId="5" startPc="268441604"/>
+        <entry endPc="268441751" name="x" stackId="2" startPc="268441600"/>
+        <entry endPc="268441751" name="dc" stackId="1" startPc="268441600"/>
+        <entry endPc="268441751" name="y" stackId="3" startPc="268441600"/>
+        <entry endPc="268441929" name="distanceString" stackId="6" startPc="268441755"/>
+        <entry endPc="268441929" name="width" stackId="4" startPc="268441755"/>
+        <entry endPc="268441929" name="distance" stackId="5" startPc="268441755"/>
+        <entry endPc="268441930" name="x" stackId="2" startPc="268441751"/>
+        <entry endPc="268441930" name="dc" stackId="1" startPc="268441751"/>
+        <entry endPc="268441930" name="y" stackId="3" startPc="268441751"/>
+        <entry endPc="268442036" name="batteryString" stackId="6" startPc="268441934"/>
+        <entry endPc="268442036" name="battery" stackId="5" startPc="268441934"/>
+        <entry endPc="268442036" name="width" stackId="4" startPc="268441934"/>
+        <entry endPc="268442037" name="x" stackId="2" startPc="268441930"/>
+        <entry endPc="268442037" name="dc" stackId="1" startPc="268441930"/>
+        <entry endPc="268442037" name="y" stackId="3" startPc="268441930"/>
+        <entry endPc="268442321" name="boxText" stackId="7" startPc="268442041"/>
+        <entry endPc="268442322" name="height" stackId="6" startPc="268442037"/>
+        <entry endPc="268442322" name="x" stackId="3" startPc="268442037"/>
+        <entry endPc="268442322" name="dc" stackId="1" startPc="268442037"/>
+        <entry endPc="268442322" name="width" stackId="5" startPc="268442037"/>
+        <entry endPc="268442322" name="text" stackId="2" startPc="268442037"/>
+        <entry endPc="268442322" name="y" stackId="4" startPc="268442037"/>
+        <entry endPc="268442659" name="x" stackId="7" startPc="268442326"/>
+        <entry endPc="268442659" name="maxh" stackId="6" startPc="268442326"/>
+        <entry endPc="268442659" name="timeString" stackId="3" startPc="268442326"/>
+        <entry endPc="268442659" name="clockTime" stackId="2" startPc="268442326"/>
+        <entry endPc="268442659" name="pad" stackId="4" startPc="268442326"/>
+        <entry endPc="268442659" name="y" stackId="8" startPc="268442326"/>
+        <entry endPc="268442659" name="maxw" stackId="5" startPc="268442326"/>
+        <entry endPc="268442660" name="dc" stackId="1" startPc="268442322"/>
+        <entry endPc="268442765" name="powerInfo" stackId="1" startPc="268442700"/>
+        <entry endPc="268442773" name="goal" stackId="1" startPc="268442768"/>
+        <entry endPc="268442790" name="dc" stackId="1" startPc="268442773"/>
+        <entry endPc="268442795" name="dc" stackId="1" startPc="268442790"/>
+        <entry endPc="268442840" name="dictionary" stackId="1" startPc="268442799"/>
+        <entry endPc="268442911" name="dc" stackId="1" startPc="268442841"/>
+        <entry endPc="268443155" name="rez_cmp_local_custom_drawable_71338547371461394816" stackId="2" startPc="268442923"/>
+        <entry endPc="268443155" name="rez_cmp_local_text_TimeLabel" stackId="3" startPc="268442923"/>
+        <entry endPc="268443156" name="dc" stackId="1" startPc="268442911"/>
+    </localVars>
+    <annotations/>
+    <dataEntryOffsetMappings>
+        <dataEntry offset="87" parentId="" symbolId="globals" type="module"/>
+        <dataEntry offset="174" parentId="globals" symbolId="Background" type="class"/>
+        <dataEntry offset="229" parentId="globals" symbolId="BoeingWatchApp" type="class"/>
+        <dataEntry offset="316" parentId="globals" symbolId="Rez" type="module"/>
+        <dataEntry offset="395" parentId="Rez" symbolId="Drawables" type="module"/>
+        <dataEntry offset="466" parentId="Rez" symbolId="Menus" type="module"/>
+        <dataEntry offset="497" parentId="Rez" symbolId="Fonts" type="module"/>
+        <dataEntry offset="544" parentId="Rez" symbolId="Layouts" type="module"/>
+        <dataEntry offset="583" parentId="Rez" symbolId="JsonData" type="module"/>
+        <dataEntry offset="614" parentId="Rez" symbolId="Strings" type="module"/>
+        <dataEntry offset="781" parentId="globals" symbolId="BoeingWatchGoalView" type="class"/>
+        <dataEntry offset="844" parentId="globals" symbolId="BoeingWatchView" type="class"/>
+        <dataEntry offset="1395" parentId="globals" symbolId="AnalogDelegate" type="class"/>
+    </dataEntryOffsetMappings>
+    <functions>
+        <functionEntry accessMode="public" name="initialize" parent="BoeingWatchApp">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onStart" parent="BoeingWatchApp">
+            <param id="state"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onStop" parent="BoeingWatchApp">
+            <param id="state"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="getInitialView" parent="BoeingWatchApp">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onSettingsChanged" parent="BoeingWatchApp">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="getGoalView" parent="BoeingWatchApp">
+            <param id="goal"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="initialize" parent="BoeingWatchView">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onLayout" parent="BoeingWatchView">
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onUpdate" parent="BoeingWatchView">
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onPartialUpdate" parent="BoeingWatchView">
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="updateValues" parent="BoeingWatchView">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="drawBackground" parent="BoeingWatchView">
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="centerOnLeft" parent="BoeingWatchView">
+            <param id="dc"/>
+            <param id="size"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="centerOnRight" parent="BoeingWatchView">
+            <param id="dc"/>
+            <param id="size"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="drawPlane" parent="BoeingWatchView">
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="drawLogo" parent="BoeingWatchView">
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="drawBox" parent="BoeingWatchView">
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="drawTicks" parent="BoeingWatchView">
+            <param id="dc"/>
+            <param id="length"/>
+            <param id="stroke"/>
+            <param id="num"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="drawHand" parent="BoeingWatchView">
+            <param id="dc"/>
+            <param id="num"/>
+            <param id="time"/>
+            <param id="length"/>
+            <param id="stroke"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="drawSecondHandClip" parent="BoeingWatchView">
+            <param id="dc"/>
+            <param id="num"/>
+            <param id="time"/>
+            <param id="length"/>
+            <param id="stroke"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="drawHandOffset" parent="BoeingWatchView">
+            <param id="dc"/>
+            <param id="num"/>
+            <param id="offsetNum"/>
+            <param id="time"/>
+            <param id="offsetTime"/>
+            <param id="length"/>
+            <param id="stroke"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="drawDate" parent="BoeingWatchView">
+            <param id="dc"/>
+            <param id="x"/>
+            <param id="y"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="drawTimeBox" parent="BoeingWatchView">
+            <param id="dc"/>
+            <param id="x"/>
+            <param id="y"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="drawStepBox" parent="BoeingWatchView">
+            <param id="dc"/>
+            <param id="x"/>
+            <param id="y"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="drawFloorsBox" parent="BoeingWatchView">
+            <param id="dc"/>
+            <param id="x"/>
+            <param id="y"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="drawCaloriesBox" parent="BoeingWatchView">
+            <param id="dc"/>
+            <param id="x"/>
+            <param id="y"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="drawDistanceBox" parent="BoeingWatchView">
+            <param id="dc"/>
+            <param id="x"/>
+            <param id="y"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="drawBatteryBox" parent="BoeingWatchView">
+            <param id="dc"/>
+            <param id="x"/>
+            <param id="y"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="drawTextBox" parent="BoeingWatchView">
+            <param id="dc"/>
+            <param id="text"/>
+            <param id="x"/>
+            <param id="y"/>
+            <param id="width"/>
+            <param id="height"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="drawScreenSaver" parent="BoeingWatchView">
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onShow" parent="BoeingWatchView">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onHide" parent="BoeingWatchView">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onExitSleep" parent="BoeingWatchView">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onEnterSleep" parent="BoeingWatchView">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onPowerBudgetExceeded" parent="AnalogDelegate">
+            <param id="powerInfo"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="initialize" parent="BoeingWatchGoalView">
+            <param id="goal"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onLayout" parent="BoeingWatchGoalView">
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onUpdate" parent="BoeingWatchGoalView">
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="initialize" parent="Background">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="draw" parent="Background">
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="WatchFace" parent="Layouts">
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+    </functions>
+</debugInfo>

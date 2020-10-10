@@ -1,0 +1,7 @@
+<drawables>
+    <bitmap id="LauncherIcon" filename="launcher_icon.png" />
+    <bitmap id="Logo" x="center" y="17%" filename="boeing-logo.png"/>
+    <bitmap id="LargeLogo" x="center" y="17%" filename="boeing-logo_large.png"/>
+	<bitmap id="Plane" x="center" y="center" filename="787_front.png"/>
+	<bitmap id="LargePlane" x="center" y="center" filename="787_front_large.png"/>
+</drawables>

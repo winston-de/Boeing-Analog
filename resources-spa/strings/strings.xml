@@ -1,0 +1,24 @@
+<strings>
+
+    <string id="AppName">Reloj Boeing</string>
+    
+    <string id="MilitaryFormatTitle">Usar 24 horas</string>
+   	<string id="MF_0">Sí</string>
+   	<string id="MF_1">No</string>
+   	<string id="MF_2">Usar el valor predeterminado del sistema</string>
+   		
+    <string id="ShowTicksTitle">Mostrar garrapatas alrededor de la esfera del reloj</string>
+    <string id="RightBoxDipslayTitle">Seleccione qué mostrar en el cuadro de la derecha en la esfera del reloj</string>
+    <string id="SecondHandColorTitle">Second hand color</string>
+    <string id="AlwaysOnTitle">Siempre en exhibición (actualmente no disponible en el Vivoactive 4, Fenix 6. y el Fenix 6x)</string>
+    <string id="ShowBoxesTitle">Mostrar cuadros alrededor de las etiquetas de texto</string>
+    
+    <string id="RBD_0">Blanco</string>
+    <string id="RBD_1">Hora</string>
+    <string id="RBD_2">Pasos</string>
+    <string id="RBD_3">Pisos subidos</string>
+    <string id="RBD_4">Calorías quemadas</string>
+    <string id="RBD_5">Distancia</string>
+    <string id="RBD_6">Batería</string>
+
+</strings>

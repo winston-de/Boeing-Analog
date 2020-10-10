@@ -1,0 +1,8 @@
+<properties>
+    <property id="Use24HourFormat" type="number">2</property>
+    <property id="ShowTicks" type="boolean">true</property>
+    <property id="AlwaysOn" type="boolean">true</property>
+    <property id="ShowBoxes" type="boolean">true</property>
+    <property id="RightBoxDisplay1" type="number">1</property>
+
+</properties>
